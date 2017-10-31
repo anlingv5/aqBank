@@ -1,7 +1,7 @@
 <template>
   <div id="startComponent">
-  	<div class="bgImg"><p>欢迎来到胖胖题库</p></div>
-  	<router-link to="/main">进入正题</router-link>
+  	<div class="bgImg" :style="{background:'url('+img+')'}"><p>欢迎来到气象中心练习题库</p></div>
+  	<router-link to="/main">进入练习</router-link>
   </div>
 </template>
 
@@ -20,27 +20,34 @@ export default {
 	
 </script>
 
-<style scoped lang="less">
+<style lang="less">
 #startComponent{
-	height: 100%;
-	overflow: hidden;
    .bgImg{
-   	  height: 50vh;
-   	  background: #008dff;
+   	  height: 100%;
+   	  position: fixed;
+   	  top:0;
+   	  left: 0;
+   	  width: 100%;
+   	  z-index: 2;
    	  p{
    	  	line-height: 50vh;
    	  	color:#fff;
    	  }
    }
    a{
-	   	width:40vw;
-	   	background: #008dff;
-	   	line-height: 10.67vw;
+ 	    position: fixed;
+ 	    top:70%;
+ 	    left: 25%;
+ 	    z-index:3;
+	   	width:50%;
+	   	background: rgba(150,188,218,0.69);
+	   	line-height: 7.67vw;
 	   	padding: 10px;
 	   	margin-top: 20px;
 	   	display: inline-block;
 	   	color:#fff;
-	   	border-radius: 5px;
+	   	border-radius: 25px;
+	   	text-decoration: none;
    }
 }
 </style>

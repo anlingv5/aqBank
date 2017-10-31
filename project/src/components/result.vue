@@ -1,45 +1,46 @@
 <template>
 <div class="resultComponent">
-	<mt-header title="答题详情" :fixed="true">
-	  <router-link to="/" slot="left">
-	    <mt-button icon="back">返回首页</mt-button>
-	  </router-link>
-	</mt-header>
+	<mt-header title="答题卡" :fixed="true"></mt-header>
 	<div class="resultBox">
 		<div class="listHeadr">
-			<span><img src="../assets/ok.png"><label style="color:#03a9f4;">2</label></span>
-			<span><img src="../assets/error.png"><label style="color:#ff5722;">1</label></span>
-			<span><img src="../assets/total.png"><label>3</label><label>/20</label></span>
+			<span><img src="../assets/ok.png"><label style="color:#03a9f4;">{{right_count}}</label></span>
+			<span><img src="../assets/error.png"><label style="color:#ff5722;">{{error_count}}</label></span>
+			<span><img src="../assets/total.png"><label>{{totalData.length-right_count-error_count}}</label><label>/{{totalData.length}}</label></span>
 		</div>
 		<div class="dataList">
-			<span v-for="item in data" :class="'ative'+item.status">{{item.id}}</span>
+			<span v-for="item in totalData" :class="'ative'+item.status">{{item.id}}</span>
 		</div>
 	</div>
 </div>
 </template>
 
 <script>
-const data =[{
-	"id":"1",
-	"status":1
-},{
-	"id":"2",
-	"status":2
-},{
-	"id":"3",
-	"status":3
-},{
-	"id":"4",
-	"status":3
-}]
-
 export default{
+    props:{
+	  totalData: Array
+    },
 	data(){
 		return {
-			data:data
+			right_count:0,
+			error_count:0
 		}
 	},
+	created(){
+	   setTimeout(()=>{
+	   	 for (var i = 0; i < this.totalData.length; i++) {
+	   	   	  switch(this.totalData[i].status){
+	   	   	  	 case 'ok':
+	   	   	  	    this.right_count++;
+	   	   	  	    break;
+	   	   	  	 case 'error':
+	   	   	  	 	this.error_count++;
+	   	   	  	 	break;
+	   	   	  }
+	   	   }
+	   },1000); 
+    },
 	methods:{
+       
 	}
 }
 </script>
@@ -71,15 +72,15 @@ export default{
 				text-align: center;
 				margin: 4vw;
 			}
-			.ative1{
+			.ativeok{
 				border:1px solid #03a9f4;
 				background: rgba(3,169,244,0.14);
 			}
-			.ative2{
+			.ativeerror{
 				border:1px solid #ff5722;		
 				background: rgba(255,87,34,0.22);
 			}
-			.ative3{
+			.ative{
 				border:1px solid #ccc;
 				background: rgba(204,204,204,0.53);
 			}

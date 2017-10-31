@@ -6,11 +6,6 @@
       </router-link>
     </mt-header>
     <aqTemplate></aqTemplate>
-    <div class="btns">
-       <mt-button type="primary">上一题</mt-button>
-       <mt-button type="danger">下一题</mt-button>
-       <mt-button type="default" @click.ative="toResult">结束答题</mt-button>
-    </div>
   </div>
 </template>
 
@@ -19,27 +14,20 @@ import Vue from 'vue'
 import { Header } from 'mint-ui';
 Vue.component(Header.name, Header);
 import aqTemplate from '@/components/common/aq'
-import { Button } from 'mint-ui';
-Vue.component(Button.name, Button);
+import dataBank from '@/assets/data'
 
 export default {
-   props:{
-      tabSelect:{
-        type:String
-      }
-   },
    data(){
     return {
-        selected:"练习"
+        dataBank:[] 
     }
    },
    components:{
-    aqTemplate
+      aqTemplate
    },
-   methods:{
-    toResult(){
-      this.selected = "答题卡";
-    }
+   beforeCreate(){
+      this.dataBank = dataBank;
+      sessionStorage.data = JSON.stringify(this.dataBank);
    }
 }
 </script>

@@ -16,7 +16,7 @@
         <router-view></router-view>
       </mt-tab-container-item>
       <mt-tab-container-item id="答题卡">
-         <resultComponent></resultComponent>
+         <resultComponent :totalData="dataList"></resultComponent>
       </mt-tab-container-item>
     </mt-tab-container>
   </div>
@@ -32,23 +32,29 @@ Vue.component(Tabbar.name, Tabbar);
 Vue.component(TabItem.name, TabItem);
 Vue.component(TabContainer.name, TabContainer);
 Vue.component(TabContainerItem.name, TabContainerItem);
-import store from '@/store/store'
-import {mapState} from 'vuex'
+
 
 export default {
-   // data(){
-   //  return {
-   //      selected:"练习"
-   //  }
-   // },
-   computed: {
-     selected(){
-       return store.state.tabSelect;
-     }
+   data(){
+    return {
+        selected:"练习",
+        dataList:[]
+    }
    },
    components:{
      startComponent,resultComponent
+   },
+   watch:{
+      selected(){
+         if (this.selected =="答题卡") {
+             this.dataList = JSON.parse(sessionStorage.data);
+             console.log(this.dataList);
+         }else{
+            console.log("进入练习题");
+         }
+      }
    }
+   
 }
 </script>
 
