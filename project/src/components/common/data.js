@@ -1,4 +1,6 @@
 //题库
+const currentData =[];
+
 const dataBank = [
 {
 	"id":1,
@@ -84,4 +86,6 @@ const dataBank = [
 }]
 
 
-export default dataBank;
+export default ({
+	currentData,dataBank
+}) 

@@ -1,24 +1,19 @@
 <template>
   <div id="app">
-    <TabBar></TabBar>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import TabBar from '@/components/common/Tabbar'
-import Vue from 'vue'
-
-export default {
-  name: 'app',
-  components:{
-      TabBar
-  }
-}
+export default({})
 </script>
 
 <style>
-body{
-  background: #fff;
+html,body{
+  padding: 0;
+  margin:0;
+  height: 100%;
+  overflow: hidden;
 }
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -26,7 +21,7 @@ body{
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
-  font-size: 20px;
+  font-size: 5.33vw;
+  height: 100%;
 }
 </style>

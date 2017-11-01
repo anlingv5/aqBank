@@ -6,6 +6,10 @@ import router from './router'
 import MintUI from 'mint-ui'
 import 'mint-ui/lib/style.css'
 Vue.use(MintUI)
+import { Header } from 'mint-ui';
+Vue.component(Header.name, Header);
+import { Checklist } from 'mint-ui';
+Vue.component(Checklist.name, Checklist);
 
 Vue.config.productionTip = false
 

@@ -32,14 +32,14 @@ export default{
    	 return{
    	 	value:[],
    	 	currentData:'',
-        index:0,
-        totalData:[],
-        showResult:false
+      index:0,
+      totalData:[],
+      showResult:false
    	 }
    },
    beforeMount(){
    	  this.totalData = JSON.parse(sessionStorage.data);
-	  this.currentData = this.totalData[0];
+	    this.currentData = this.totalData[0];
    },
    watch:{
       value(){
@@ -69,6 +69,8 @@ export default{
 
 <style scoped lang="less">
 .aqtemplate{
+  margin-top:15vw;
+  padding:0 10px;
 	display: inline-block;
 	width: 100%;
 	.mint-checklist{

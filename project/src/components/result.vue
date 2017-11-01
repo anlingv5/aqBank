@@ -8,26 +8,34 @@
 			<span><img src="../assets/total.png"><label>{{totalData.length-right_count-error_count}}</label><label>/{{totalData.length}}</label></span>
 		</div>
 		<div class="dataList">
-			<span v-for="item in totalData" :class="'ative'+item.status">{{item.id}}</span>
+			<span v-for="item in totalData" :class="'ative'+item.status">
+			  <router-link :to="{path:'/mark',query:{id:JSON.parse(item.id)-1,rshow:true}}">{{item.id}}</router-link>
+			</span>
 		</div>
 	</div>
 </div>
 </template>
 
 <script>
+import aqBank from '@/components/common/data'
+
 export default{
-    props:{
-	  totalData: Array
-    },
 	data(){
 		return {
 			right_count:0,
-			error_count:0
+			error_count:0,
+			totalData:[]
 		}
 	},
 	created(){
-	   setTimeout(()=>{
-	   	 for (var i = 0; i < this.totalData.length; i++) {
+
+   	    this.getData()
+    },
+	methods:{
+		getData(){
+			this.totalData = aqBank.dataBank;
+			console.log("当前值",this.totalData);
+			for (var i = 0; i < this.totalData.length; i++) {
 	   	   	  switch(this.totalData[i].status){
 	   	   	  	 case 'ok':
 	   	   	  	    this.right_count++;
@@ -36,10 +44,8 @@ export default{
 	   	   	  	 	this.error_count++;
 	   	   	  	 	break;
 	   	   	  }
-	   	   }
-	   },1000); 
-    },
-	methods:{
+	   	    }
+		}
        
 	}
 }
@@ -50,6 +56,7 @@ export default{
 	width: 100%;
 	display: block;
 	text-align: left;
+	margin-top: 15vw;
 	.resultBox{
 		.listHeadr{
 			height: 8vw;
@@ -68,9 +75,11 @@ export default{
 				width:10vw;
 				display: inline-block;
 				border-radius: 50%;
-				
 				text-align: center;
 				margin: 4vw;
+				a{
+					text-decoration: none;
+				}
 			}
 			.ativeok{
 				border:1px solid #03a9f4;
