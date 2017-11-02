@@ -7,19 +7,18 @@
     </mt-header>
     <aqCom :data="currentData" :show="currentShow"></aqCom>
 
-    <router-link :to="{ path:'/mark',query:{id:JSON.parse(currentId-1),rshow:false}}" v-if="currentId!=0">上一题</router-link>
-    <router-link :to="{ path:'/mark',query:{id:JSON.parse(currentId)+1,rshow:false}}" v-if="currentId!=totalData.length-1">下一题</router-link>
+    <router-link :to="{ path:'/mark',query:{id:JSON.parse(currentId)-1,rshow:false}}" v-if="currentId!=0"><mt-button type="primary">上一题</mt-button></router-link>
+    <router-link :to="{ path:'/mark',query:{id:JSON.parse(currentId)+1,rshow:false}}" v-if="currentId!=totalData.length-1"><mt-button type="danger">下一题</mt-button></router-link>
 </div>
 </template>
 
 <script>
 import aqCom from '@/components/common/aqCom'
-import aqBank from '@/components/common/data'
+import store from '@/store/index'
 
 export default({
    data(){
      return {
-       totalData:[],
        currentData:{},
        currentShow:false,
        currentId:0
@@ -28,8 +27,10 @@ export default({
    components:{
     	aqCom
    },
-   created(){
-      this.totalData = aqBank.dataBank; //第一次获取前20个数据
+   computed:{
+      totalData(){
+         return store.state.totalData
+      }
    },
    watch:{
       '$route'(to,from){
@@ -43,11 +44,10 @@ export default({
    },
    methods:{
       getData(state){
+         this.currentData = {};
          this.currentId = state.id;
          this.currentData = this.totalData[state.id];
          this.currentShow = Boolean(state.rshow);
-         sessionStorage.setItem("urlPath",this.$route.fullPath);
-         sessionStorage.setItem("data",JSON.stringify(this.totalData));
       }
    }
 })

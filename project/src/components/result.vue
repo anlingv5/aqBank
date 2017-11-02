@@ -17,24 +17,22 @@
 </template>
 
 <script>
-import aqBank from '@/components/common/data'
+import store from '@/store/index'
 
 export default{
 	data(){
 		return {
 			right_count:0,
-			error_count:0,
-			totalData:[]
+			error_count:0
 		}
 	},
-	created(){
-
-   	    this.getData()
+	computed:{
+      totalData(){
+         return store.state.totalData
+      }
     },
 	methods:{
 		getData(){
-			this.totalData = aqBank.dataBank;
-			console.log("当前值",this.totalData);
 			for (var i = 0; i < this.totalData.length; i++) {
 	   	   	  switch(this.totalData[i].status){
 	   	   	  	 case 'ok':

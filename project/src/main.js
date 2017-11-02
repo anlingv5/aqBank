@@ -10,6 +10,8 @@ import { Header } from 'mint-ui';
 Vue.component(Header.name, Header);
 import { Checklist } from 'mint-ui';
 Vue.component(Checklist.name, Checklist);
+import { Button } from 'mint-ui';
+Vue.component(Button.name, Button);
 
 Vue.config.productionTip = false
 

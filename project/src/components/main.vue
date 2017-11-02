@@ -2,8 +2,14 @@
   <div class="mainComponent">
     <router-view></router-view>
     <div class="tab">
-       <router-link tag="li" :to="{path:toPath,activeClass:'buttom-nav-active'}">练习题</router-link>
-       <router-link tag="li" :to="{path:'/result',activeClass:'buttom-nav-active'}">答题卡</router-link>
+       <router-link tag="li" :to="{path:toPath,activeClass:'buttom-nav-active'}">
+          <img src="../assets/home.png">
+          <span>练习题</span>
+       </router-link>
+       <router-link tag="li" :to="{path:'/result',activeClass:'buttom-nav-active'}">
+          <img src="../assets/bank.png">
+          <span>答题卡</span>
+       </router-link>
     </div>
   </div>
 </template>
@@ -43,9 +49,17 @@ export default {
         display: block;
         background: #ccc;
         color:#fff;
+        img{
+          width:6.73vw;
+          vertical-align: middle;
+        }
+        span{
+           line-height:20px;
+           font-size: 3.73vw;
+        }
     }
     .router-link-active{
-      background: #008dff;
+      background: #26a2ff;
     }
   }
 }

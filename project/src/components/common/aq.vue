@@ -26,6 +26,7 @@ import { Checklist } from 'mint-ui';
 import { Button } from 'mint-ui';
 Vue.component(Button.name, Button);
 Vue.component(Checklist.name, Checklist);
+import store from '@/store/index'
 
 export default{
    data(){
@@ -33,13 +34,18 @@ export default{
    	 	value:[],
    	 	currentData:'',
       index:0,
-      totalData:[],
       showResult:false
    	 }
    },
-   beforeMount(){
-   	  this.totalData = JSON.parse(sessionStorage.data);
-	    this.currentData = this.totalData[0];
+   computed:{
+      totalData(){
+         return store.state.totalData
+      }
+   },
+   mounted(){
+      this.$nextTick(()=>{
+         this.currentData = this.totalData[0];
+      })
    },
    watch:{
       value(){
@@ -49,7 +55,6 @@ export default{
       	 	this.totalData[this.index].status = "error";
       	 }
       	this.totalData[this.index].current = this.value;
-      	sessionStorage.data = JSON.stringify(this.totalData);
       }
    },
    methods:{
@@ -59,9 +64,9 @@ export default{
   	    this.currentData = this.totalData[this.index];
       },
       toPre(){
-     	this.index = this.index -1;
-     	this.value = this.totalData[this.index].current;
-     	this.currentData = this.totalData[this.index];
+       	this.index = this.index -1;
+       	this.value = this.totalData[this.index].current;
+       	this.currentData = this.totalData[this.index];
       }
    }
 }
