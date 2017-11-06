@@ -14,11 +14,13 @@ import { Button } from 'mint-ui';
 Vue.component(Button.name, Button);
 
 Vue.config.productionTip = false
+import store from '@/store/index'
 
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
   template: '<App/>',
-  components: { App }
+  components: { App },
+  store
 })

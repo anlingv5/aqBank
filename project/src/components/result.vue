@@ -8,8 +8,8 @@
 			<span><img src="../assets/total.png"><label>{{totalData.length-right_count-error_count}}</label><label>/{{totalData.length}}</label></span>
 		</div>
 		<div class="dataList">
-			<span v-for="item in totalData" :class="'ative'+item.status">
-			  <router-link :to="{path:'/mark',query:{id:JSON.parse(item.id)-1,rshow:true}}">{{item.id}}</router-link>
+			<span v-for="(item,index) in totalData" :class="'ative'+item.status">
+			  <router-link :to="{path:'/mark',query:{id:index,rshow:true}}">{{index+1}}</router-link>
 			</span>
 		</div>
 	</div>
@@ -17,8 +17,6 @@
 </template>
 
 <script>
-import store from '@/store/index'
-
 export default{
 	data(){
 		return {
@@ -28,8 +26,13 @@ export default{
 	},
 	computed:{
       totalData(){
-         return store.state.totalData
+         return this.$store.state.totalData;
       }
+    },
+    mounted(){
+    	this.$nextTick(()=>{
+    		this.getData();
+    	})
     },
 	methods:{
 		getData(){

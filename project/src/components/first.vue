@@ -12,7 +12,7 @@ import aqData from '@/components/common/data'
 
 export default({
 	data(){
-		return{
+		return{	
 		}
 	}
 })
@@ -24,7 +24,7 @@ export default({
 .firstCom{
 	width: 100%;
 	height: 100%;
-	background: url('../assets/bg.png') no-repeat 50%;
+	background: #008dff;
 	background-size: cover;
 	p{
 		margin: 0;
@@ -39,7 +39,7 @@ export default({
         border-radius: 10px;
 		line-height: 12.33vw;
 		text-decoration: none;
-		background: rgba(255,152,0,0.51);
+		background: rgba(123, 203, 239, 0.65);
 
 	}
 }

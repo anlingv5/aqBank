@@ -2,7 +2,7 @@
   <div class="mainComponent">
     <router-view></router-view>
     <div class="tab">
-       <router-link tag="li" :to="{path:toPath,activeClass:'buttom-nav-active'}">
+       <router-link tag="li" :to="{path:'/mark',query:{id:tabUrlPath.id,rshow:tabUrlPath.rshow},activeClass:'buttom-nav-active'}">
           <img src="../assets/home.png">
           <span>练习题</span>
        </router-link>
@@ -15,18 +15,16 @@
 </template>
 
 <script>
-
-
 export default {
    data(){
-    return {
-      toPath:''
-    }
+      return {
+        toPath:''
+      }
    },
-   mounted(){
-      this.$nextTick(()=>{
-        this.toPath = sessionStorage.getItem("urlPath");
-      })  
+   computed:{
+      tabUrlPath(){
+         return this.$store.state.tabUrlPath
+      }
    }
 }
 </script>
