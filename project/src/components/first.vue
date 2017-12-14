@@ -1,8 +1,8 @@
 <template>
 <div class="firstCom">
 	<div class="bg">
-		<p>欢迎来到探测气象中心</p>
-		<router-link :to="{ path:'/mark',query:{id:0,rshow:false}}">进入练习题库</router-link>
+		<p>欢迎来到气象观测练习题库</p>
+		<router-link :to="{ path:'/mark',query:{id:0,rshow:false}}">进入题库</router-link>
 	</div>
 </div>
 </template>

@@ -3,16 +3,18 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 Vue.use(Vuex)
 import aqData from '@/components/common/data'
+import  dtNumber from '../../static/data/number.js'
 
 let store = new Vuex.Store({
 	state:{
 		totalData:aqData.dataBank,
 		tabUrlPath:'/mark?id=0&rshow=false',
+		dtNumber: dtNumber
 	},
 	getters:{
 		chooseData(state){
 			let arr = state.totalData;
-			let count = 4;
+			let count = state.dtNumber;
             let shuffled = arr.slice(0), i = arr.length, min = i - count, temp, index;
 		    while (i-- > min) {
 		        index = Math.floor((i) * Math.random());
