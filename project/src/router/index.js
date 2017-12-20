@@ -1,10 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import firstCom from '@/components/first'
-import MainComponent from '@/components/main'
-import MarkComponent from '@/components/mark'
-import ResultComponent from '@/components/result'
-
+import QuestionComponent from '@/components/question'
+import answerCard from '@/components/answerCard'
 Vue.use(Router)
 
 export default new Router({
@@ -13,16 +11,14 @@ export default new Router({
 	    path: '/',
 	    name: 'app',
 	    component: firstCom,
-    },{
-		  path:'/home',
-	  	component:MainComponent,
-      children:[{
-        path:'/mark',
-        component:MarkComponent
-      },{
-        path:'/result',
-        component: ResultComponent
-      }]
+    },
+    {
+      path:'/question',
+      component: QuestionComponent
+    },
+    {
+      path:'/answerCard',
+      component: answerCard
     }
   ]
 })

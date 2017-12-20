@@ -13,8 +13,13 @@ Vue.component(Checklist.name, Checklist);
 import { Button } from 'mint-ui';
 Vue.component(Button.name, Button);
 
+// 引用ajax
+import vueResource from 'vue-resource'
+Vue.use(vueResource)
+
 Vue.config.productionTip = false
 import store from '@/store/index'
+
 
 /* eslint-disable no-new */
 new Vue({

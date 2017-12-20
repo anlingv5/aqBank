@@ -1,15 +1,18 @@
 <template>
 <div class="resultComponent">
-	<mt-header title="答题卡" :fixed="true"></mt-header>
+	<mt-header title="答题卡" :fixed="true">
+	  <router-link to="/" slot="left">
+	    <mt-button icon="back">返回首页</mt-button>
+	  </router-link>
+	</mt-header>
 	<div class="resultBox">
 		<div class="listHeadr">
 			<span><img src="../assets/ok.png"><label style="color:#03a9f4;">{{right_count}}</label></span>
 			<span><img src="../assets/error.png"><label style="color:#ff5722;">{{error_count}}</label></span>
-			<span><img src="../assets/total.png"><label>{{totalData.length-right_count-error_count}}</label><label>/{{totalData.length}}</label></span>
+			<span><img src="../assets/total.png"><label>{{(totalData.length)-right_count-error_count}}</label><label>/{{totalData.length}}</label></span>
 		</div>
 		<div class="dataList">
-			<span v-for="(item,index) in totalData" :class="'ative'+item.status">
-			  <router-link :to="{path:'/mark',query:{id:index,rshow:true}}">{{index+1}}</router-link>
+			<span v-for="(item,index) in totalData" :class="'ative'+item.status" @click="toQuestion(index)">{{index+1}}
 			</span>
 		</div>
 	</div>
@@ -46,8 +49,12 @@ export default{
 	   	   	  	 	break;
 	   	   	  }
 	   	    }
+		},
+		toQuestion(index){
+			this.$store.commit('addCurrentId',index);
+			this.$router.push({ path:'/question'});
 		}
-       
+       // end methods
 	}
 }
 </script>

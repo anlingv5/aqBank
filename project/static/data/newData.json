@@ -1,0 +1,10794 @@
+﻿[{
+		"id": 1,
+		"part": "法律规章",
+		"choose": [{
+			"chapter": "法律规章",
+			"questions": [{
+					"title": "中国民用航空规章由以下哪个部门制定(    )。",
+					"options": [{
+							"label": "国务院或国务院、中央军委",
+							"value": "A"
+						},
+						{
+							"label": "民航局职能部门",
+							"value": "B"
+						},
+						{
+							"label": "中国民用航空局",
+							"value": "C"
+						},
+						{
+							"label": "全国人民代表大会及其常务委员会",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "民用航空规范性文件由以下哪个部门制定(    )。",
+					"options": [{
+							"label": "国务院或国务院、中央军委",
+							"value": "A"
+						},
+						{
+							"label": "民航局职能部门",
+							"value": "B"
+						},
+						{
+							"label": "中国民用航空局",
+							"value": "C"
+						},
+						{
+							"label": "全国人民代表大会及其常务委员会",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象事业是经济建设、国防建设、社会发展和人们生活的基础型公益事业，气象工作应当把(    )放在首位。",
+					"options": [{
+							"label": "行业气象服务",
+							"value": "A"
+						},
+						{
+							"label": "有偿气象服务",
+							"value": "B"
+						},
+						{
+							"label": "公益性气象服务",
+							"value": "C"
+						},
+						{
+							"label": "国家建设和人民生活",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "依照《中华人民共和国气象法》的规定，气象专用技术装备应当符合国务院气象主管机构规定的技术要求，并经(    )审查合格；未经审查或者审查不合格的，不得在气象业务中使用。",
+					"options": [{
+							"label": "国务院有关部门",
+							"value": "A"
+						},
+						{
+							"label": "国家标准化委员会",
+							"value": "B"
+						},
+						{
+							"label": "国务院气象主管机构",
+							"value": "C"
+						},
+						{
+							"label": "国务院指定的气象机构",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象计量器具应当依照(    )的有关规定，经气象计量检定机构检定。未经检定、检定不合格或者超过检定有效期的气象计量器具，不得使用。",
+					"options": [{
+							"label": "《中华人民共和国气象法》",
+							"value": "A"
+						},
+						{
+							"label": "《中华人民共和国计量法》",
+							"value": "B"
+						},
+						{
+							"label": "《中华人民共和国标准化法》",
+							"value": "C"
+						},
+						{
+							"label": "《中华人民共和国安全生产法》",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "《中华人民共和国民用航空法》规定，(    )对全国民用航空活动实施统一监督管理。",
+					"options": [{
+							"label": "国务院、中央军委",
+							"value": "A"
+						},
+						{
+							"label": "国务院民用航空主管部门",
+							"value": "B"
+						},
+						{
+							"label": "国家空管委",
+							"value": "C"
+						},
+						{
+							"label": "国务院安全生产主管部门",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "《中华人民共和国民用航空法》规定，空域管理的具体办法由(    )制定。",
+					"options": [{
+							"label": "国务院、中央军委",
+							"value": "A"
+						},
+						{
+							"label": "国务院民用航空主管部门",
+							"value": "B"
+						},
+						{
+							"label": "国家空管委",
+							"value": "C"
+						},
+						{
+							"label": "国务院安全生产主管部门",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "《中华人民共和国民用航空法》中所称民用航空器，是指除用于执行军事、(    )、警察飞行任务外的航空器。",
+					"options": [{
+							"label": "林业",
+							"value": "A"
+						},
+						{
+							"label": "海关",
+							"value": "B"
+						},
+						{
+							"label": "气象",
+							"value": "C"
+						},
+						{
+							"label": "旅游",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "《中华人民共和国民用航空法》中所称的航空人员，是指从事民用航空活动的空勤人员和地面人员。 其中，空勤人员不包括(    )。",
+					"options": [{
+							"label": "驾驶员",
+							"value": "A"
+						},
+						{
+							"label": "领航员",
+							"value": "B"
+						},
+						{
+							"label": "飞行签派员",
+							"value": "C"
+						},
+						{
+							"label": "飞行通信员",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "《中华人民共和国民用航空法》中所称的航空人员，是指从事民用航空活动的空勤人员和地面人员。 其中，地面人员不包括(    )。",
+					"options": [{
+							"label": "空中交通管制员",
+							"value": "A"
+						},
+						{
+							"label": "航空器维修人员",
+							"value": "B"
+						},
+						{
+							"label": "飞行签派员",
+							"value": "C"
+						},
+						{
+							"label": "飞行通信员",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "根据《中华人民共和国民用航空法》，民用机场是指专供民用航空器起飞､降落､滑行､停放以及进行其他活动使用的划定区域，包括附属的建筑物､装置和设施。民用机场不包括(    )。",
+					"options": [{
+							"label": "通用机场",
+							"value": "A"
+						},
+						{
+							"label": "军民合用机场",
+							"value": "B"
+						},
+						{
+							"label": "临时机场",
+							"value": "C"
+						},
+						{
+							"label": "国际机场",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "民航气象中心、民航地区气象中心由(    )批准设立。",
+					"options": [{
+							"label": "民航局",
+							"value": "A"
+						},
+						{
+							"label": "民航地区管理局",
+							"value": "B"
+						},
+						{
+							"label": "民航局空中交通管理局",
+							"value": "C"
+						},
+						{
+							"label": "民航局航空气象主管部门",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "(    )不是民航地区气象中心应当履行的职责。",
+					"options": [{
+							"label": "制作和发布本地区低层区域预报",
+							"value": "A"
+						},
+						{
+							"label": "制作并向本地区机场气象台、机场气象站发布业务指导产品",
+							"value": "B"
+						},
+						{
+							"label": "向各机场气象部门开放民用航空气象信息系统",
+							"value": "C"
+						},
+						{
+							"label": "负责国内气象情报和与国际飞行有关的气象情报的收集、处理、分发和交换",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "(    )不是机场气象台应当履行的职责。",
+					"options": [{
+							"label": "制作和发布本机场的机场天气报告、机场预报、着陆预报、机场警报和风切变警报",
+							"value": "A"
+						},
+						{
+							"label": "制作和发布本机场的起飞预报",
+							"value": "B"
+						},
+						{
+							"label": "制作和发布本机场中低层区域预报",
+							"value": "C"
+						},
+						{
+							"label": "编制本机场的《机场气候志》或《机场气候概要》",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "()不是机场气象站应当履行的职责。",
+					"options": [{
+							"label": "制作和发布本机场的机场天气报告",
+							"value": "A"
+						},
+						{
+							"label": "制作和发布机场预报、着陆预报、机场警报和风切变警报",
+							"value": "B"
+						},
+						{
+							"label": "收集和交换飞行气象情报",
+							"value": "C"
+						},
+						{
+							"label": "编制本机场的《机场气候志》或《机场气候概要》",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "根据《中国民用航空气象工作规则》，中华人民共和国领域内以及根据我国缔结或者参加的国际条约规定的民用航空气象情报的交换，由()负责组织实施。",
+					"options": [{
+							"label": "民航局",
+							"value": "A"
+						},
+						{
+							"label": "民航局空中交通管理局",
+							"value": "B"
+						},
+						{
+							"label": "民航气象服务机构",
+							"value": "C"
+						},
+						{
+							"label": "民航局航空气象主管部门",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "根据《中国民用航空气象工作规则》，()是低层区域预报的制作和发布机构。",
+					"options": [{
+							"label": "机场气象台或机场气象站",
+							"value": "A"
+						},
+						{
+							"label": "民航气象监视台",
+							"value": "B"
+						},
+						{
+							"label": "民航地区气象中心",
+							"value": "C"
+						},
+						{
+							"label": "民航气象中心",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "根据《中国民用航空气象工作规则》，()是中层重要天气预告图的发布机构。",
+					"options": [{
+							"label": "机场气象台或机场气象站",
+							"value": "A"
+						},
+						{
+							"label": "民航气象监视台",
+							"value": "B"
+						},
+						{
+							"label": "民航地区气象中心",
+							"value": "C"
+						},
+						{
+							"label": "民航气象中心",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "()应当按照气象情报制作的规定，以缩写明语形式制作、发布重要气象情报。",
+					"options": [{
+							"label": "机场气象台或机场气象站",
+							"value": "A"
+						},
+						{
+							"label": "民航气象监视台",
+							"value": "B"
+						},
+						{
+							"label": "民航地区气象中心",
+							"value": "C"
+						},
+						{
+							"label": "民航气象中心",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "我国与境外有关气象服务机构之间回复和索取境内外的飞行气象情报由()完成。",
+					"options": [{
+							"label": "机场气象台或机场气象站",
+							"value": "A"
+						},
+						{
+							"label": "民航气象监视台",
+							"value": "B"
+						},
+						{
+							"label": "民航地区气象中心",
+							"value": "C"
+						},
+						{
+							"label": "民航气象中心",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "民用航空气象服务机构向航空气象用户提供的气象情报应当至少保存()。",
+					"options": [{
+							"label": "10天",
+							"value": "A"
+						},
+						{
+							"label": "30天",
+							"value": "B"
+						},
+						{
+							"label": "半年",
+							"value": "C"
+						},
+						{
+							"label": "一年",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "民用航空气象资料保存的期限分为：永久、长期、短期、暂时四个档次。长期保存的期限为()。",
+					"options": [{
+							"label": "10年",
+							"value": "A"
+						},
+						{
+							"label": "20年",
+							"value": "B"
+						},
+						{
+							"label": "30年",
+							"value": "C"
+						},
+						{
+							"label": "50年",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "民用航空气象资料保存的期限分为：永久、长期、短期、暂时四个档次。短期保存的期限为()。",
+					"options": [{
+							"label": "30天",
+							"value": "A"
+						},
+						{
+							"label": "3个月",
+							"value": "B"
+						},
+						{
+							"label": "1年",
+							"value": "C"
+						},
+						{
+							"label": "5年",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "民用航空气象资料保存的期限分为：永久、长期、短期、暂时四个档次。暂时保存的期限为()。",
+					"options": [{
+							"label": "10天",
+							"value": "A"
+						},
+						{
+							"label": "20天",
+							"value": "B"
+						},
+						{
+							"label": "30天",
+							"value": "C"
+						},
+						{
+							"label": "40天",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "民用航空气象探测和观测设备的试验验证是指，利用实际运行环境对设备的性能和指标进行验证，其验证周期一般不少于()。",
+					"options": [{
+							"label": "1个月",
+							"value": "A"
+						},
+						{
+							"label": "3个月",
+							"value": "B"
+						},
+						{
+							"label": "6个月",
+							"value": "C"
+						},
+						{
+							"label": "12个月",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象人员执照遗失或者损坏的，持照人应当向所在地()以书面形式申请补发。",
+					"options": [{
+							"label": "监管局",
+							"value": "A"
+						},
+						{
+							"label": "地区管理局",
+							"value": "B"
+						},
+						{
+							"label": "地区空管局",
+							"value": "C"
+						},
+						{
+							"label": "气象部门",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "有关火山灰云和热带气旋的重要气象情报应当在有效时段开始前()小时内尽早发布。火山灰云和热带气旋的重要气象情报应当至少每6小时更新一次。",
+					"options": [{
+							"label": "6",
+							"value": "A"
+						},
+						{
+							"label": "12",
+							"value": "B"
+						},
+						{
+							"label": "18",
+							"value": "C"
+						},
+						{
+							"label": "24",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "机场警报应当以()形式或与航空气象用户协商的格式发布。",
+					"options": [{
+							"label": "电码",
+							"value": "A"
+						},
+						{
+							"label": "缩写明语",
+							"value": "B"
+						},
+						{
+							"label": "图表",
+							"value": "C"
+						},
+						{
+							"label": "明语",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "民用航空气象地面观测按观测内容分为()、特殊观测和事故观测。",
+					"options": [{
+							"label": "常规观测",
+							"value": "A"
+						},
+						{
+							"label": "日常观测",
+							"value": "B"
+						},
+						{
+							"label": "例行观测",
+							"value": "C"
+						},
+						{
+							"label": "普通观测",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "根据民用航空机场气象台的建设要求，机场气象台应当配备有()云图接收处理系统。",
+					"options": [{
+							"label": "极轨卫星",
+							"value": "A"
+						},
+						{
+							"label": "静止卫星",
+							"value": "B"
+						},
+						{
+							"label": "多功能卫星",
+							"value": "C"
+						},
+						{
+							"label": "广播式卫星",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "根据民用航空机场气象台的建设要求，气象观测平台与机场标高的高度差应当小于()米。",
+					"options": [{
+							"label": "10",
+							"value": "A"
+						},
+						{
+							"label": "20",
+							"value": "B"
+						},
+						{
+							"label": "30",
+							"value": "C"
+						},
+						{
+							"label": "40",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "根据民用航空机场气象台的建设要求，用于航空器着陆接地地带的气象观测设备，如温度、气压、湿度和风向风速传感器以及大气透射仪等应当安装在距跑道入口端向内()米的适当位置。",
+					"options": [{
+							"label": "100",
+							"value": "A"
+						},
+						{
+							"label": "200",
+							"value": "B"
+						},
+						{
+							"label": "300",
+							"value": "C"
+						},
+						{
+							"label": "400",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "大气透射仪的安装位置应当以()为准。",
+					"options": [{
+							"label": "大气透射仪的发射端",
+							"value": "A"
+						},
+						{
+							"label": "大气透射仪的接收端",
+							"value": "B"
+						},
+						{
+							"label": "大气透射仪发射端与接收端连线的中点",
+							"value": "C"
+						},
+						{
+							"label": "自动气象站或自动气象观测系统的所在点",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象观测场的探测环境应当视野开阔、地势平坦、保证气流畅通，四周()米范围内不应当有1米以上障碍物。",
+					"options": [{
+							"label": "10",
+							"value": "A"
+						},
+						{
+							"label": "20",
+							"value": "B"
+						},
+						{
+							"label": "30",
+							"value": "C"
+						},
+						{
+							"label": "40",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				}
+			]
+		}]
+	},
+	{
+		"id": 2,
+		"part": "行业知识部分",
+		"choose": [{
+			"chapter": "行业知识部分",
+			"questions": [{
+					"title": "进场航空器在下降穿越机场的过渡高度层，或者在过渡高度层以下进入修正海平面气压适用区域侧向边界时，飞行员应将高度表气压刻度调到本场的()值，其后航空器的垂直位置用高度表示。",
+					"options": [{
+							"label": "QFE",
+							"value": "A"
+						},
+						{
+							"label": "QNH",
+							"value": "B"
+						},
+						{
+							"label": "QNE",
+							"value": "C"
+						},
+						{
+							"label": "QEN",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "昼间飞行的含义指的是()。",
+					"options": [{
+							"label": "从日出到日落之间的飞行",
+							"value": "A"
+						},
+						{
+							"label": "从天黑到天亮之间的飞行",
+							"value": "B"
+						},
+						{
+							"label": "从天亮到日落之间的飞行",
+							"value": "C"
+						},
+						{
+							"label": "从日出到天黑之间的飞行",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "夜间飞行的含义指的是()。",
+					"options": [{
+							"label": "从天黑到天亮之间的飞行",
+							"value": "A"
+						},
+						{
+							"label": "从日落到天亮之间的飞行",
+							"value": "B"
+						},
+						{
+							"label": "从日落到日出之间的飞行",
+							"value": "C"
+						},
+						{
+							"label": "从天黑到日出之间的飞行",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "机场区域的范围是指()。",
+					"options": [{
+							"label": "机场周围50千米内的空间",
+							"value": "A"
+						},
+						{
+							"label": "机场周围100千米内的空间",
+							"value": "B"
+						},
+						{
+							"label": "机场使用细则规定的空间",
+							"value": "C"
+						},
+						{
+							"label": "机场内供飞机进离场、起降等飞行的空间",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "精密进近下降到决断高（DH）时，如果不能建立目视参考，航空器应当()。",
+					"options": [{
+							"label": "立即复飞",
+							"value": "A"
+						},
+						{
+							"label": "继续下降",
+							"value": "B"
+						},
+						{
+							"label": "保持（DH）飞行",
+							"value": "C"
+						},
+						{
+							"label": "保持（DH）至复飞点复飞",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				}
+			]
+		}]
+	},
+	{
+		"id": 3,
+		"part": "气象专业知识",
+		"choose": [{
+				"chapter": "气象学",
+				"questions": [{
+						"title": "在北半球大陆上，()季的气压最低。",
+						"options": [{
+								"label": "春",
+								"value": "A"
+							},
+							{
+								"label": "夏",
+								"value": "B"
+							},
+							{
+								"label": "秋",
+								"value": "C"
+							},
+							{
+								"label": "冬",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "描述空气中实际水汽含量距饱和程度的湿度参量有()。",
+						"options": [{
+								"label": "水汽压",
+								"value": "A"
+							},
+							{
+								"label": "饱和差",
+								"value": "B"
+							},
+							{
+								"label": "相对湿度",
+								"value": "C"
+							},
+							{
+								"label": "温度露点差",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B",
+							"C",
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "水的三相是指水的()。",
+						"options": [{
+								"label": "汽态",
+								"value": "A"
+							},
+							{
+								"label": "液态",
+								"value": "B"
+							},
+							{
+								"label": "固态",
+								"value": "C"
+							},
+							{
+								"label": "固体",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A",
+							"B",
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "对雾的形成而言，()是主要过程。",
+						"options": [{
+								"label": "绝热膨胀冷却",
+								"value": "A"
+							},
+							{
+								"label": "辐射冷却",
+								"value": "B"
+							},
+							{
+								"label": "平流冷却",
+								"value": "C"
+							},
+							{
+								"label": "蒸发",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B",
+							"C",
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "冷却雾包括()。",
+						"options": [{
+								"label": "辐射雾",
+								"value": "A"
+							},
+							{
+								"label": "平流雾",
+								"value": "B"
+							},
+							{
+								"label": "上坡雾",
+								"value": "C"
+							},
+							{
+								"label": "蒸发雾",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A",
+							"B",
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "所谓均质大气，就是假定大气密度随高度()。",
+						"options": [{
+								"label": "增加",
+								"value": "A"
+							},
+							{
+								"label": "辐射冷却",
+								"value": "B"
+							},
+							{
+								"label": "平流冷却",
+								"value": "C"
+							},
+							{
+								"label": "蒸发",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B",
+							"C",
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "一般来说，气温的日变化()露点的日变化。",
+						"options": [{
+								"label": "大于",
+								"value": "A"
+							},
+							{
+								"label": "小于",
+								"value": "B"
+							},
+							{
+								"label": "等于",
+								"value": "C"
+							},
+							{
+								"label": "说不定",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "太阳高度角越大,则单位面积上所接受的太阳辐射能()。",
+						"options": [{
+								"label": "越多",
+								"value": "A"
+							},
+							{
+								"label": "越少",
+								"value": "B"
+							},
+							{
+								"label": "不变",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "大气逆辐射对地面有()作用。",
+						"options": [{
+								"label": "保温",
+								"value": "A"
+							},
+							{
+								"label": "降温",
+								"value": "B"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "气压随高度的增加是()的。",
+						"options": [{
+								"label": "递减",
+								"value": "A"
+							},
+							{
+								"label": "递增",
+								"value": "B"
+							},
+							{
+								"label": "不变",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "一般情况下，高空的单位气压高度差比低空的()。",
+						"options": [{
+								"label": "大",
+								"value": "A"
+							},
+							{
+								"label": "小",
+								"value": "B"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "气压随高度的增加而递减，递减的快慢主要取决于空气的()。",
+						"options": [{
+								"label": "温度",
+								"value": "A"
+							},
+							{
+								"label": "湿度",
+								"value": "B"
+							},
+							{
+								"label": "密度",
+								"value": "C"
+							},
+							{
+								"label": "气压",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "荚状高积云的出现()。",
+						"options": [{
+								"label": "常预示天气晴好",
+								"value": "A"
+							},
+							{
+								"label": "常预示天气将转坏",
+								"value": "B"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "絮状高积云的出现()。",
+						"options": [{
+								"label": "预示有雷雨",
+								"value": "A"
+							},
+							{
+								"label": "预示天气晴好",
+								"value": "B"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "连续性降水常降自()。",
+						"options": [{
+								"label": "雨层云或低而厚的高层云",
+								"value": "A"
+							},
+							{
+								"label": "雨层云或低而厚的层积云",
+								"value": "B"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "冰雹降自()。",
+						"options": [{
+								"label": "积雨云",
+								"value": "A"
+							},
+							{
+								"label": "积雨云或浓积云",
+								"value": "B"
+							},
+							{
+								"label": "层积云",
+								"value": "C"
+							},
+							{
+								"label": "雨层云",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "一日内，近地层气温的最低值一般出现在()左右。",
+						"options": [{
+								"label": "凌晨1点",
+								"value": "A"
+							},
+							{
+								"label": "傍晚",
+								"value": "B"
+							},
+							{
+								"label": "夜间11点",
+								"value": "C"
+							},
+							{
+								"label": "日出前后",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "水平能见度是指正常视力的人，在当时的天气条件下，能够从天空背景中看到和辨认出目标物的()。",
+						"options": [{
+								"label": "水平距离",
+								"value": "A"
+							},
+							{
+								"label": "最大水平距离",
+								"value": "B"
+							},
+							{
+								"label": "最小水平距离",
+								"value": "C"
+							},
+							{
+								"label": "位置",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "下列说法中，()是正确的。",
+						"options": [{
+								"label": "绝对湿度和相对湿度都采用百分数来表示",
+								"value": "A"
+							},
+							{
+								"label": "在未饱和空气中，温度露点差大，说明相对湿度大",
+								"value": "B"
+							},
+							{
+								"label": "绝对湿度就是水汽密度",
+								"value": "C"
+							},
+							{
+								"label": "在未饱和空气中，温度露点差小，说明相对湿度小",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "由于太阳常数变化很小以及日地距离的变化影响不大，所以太阳直接辐射的大小主要是由()决定的。",
+						"options": [{
+								"label": "太阳高度角和大气透明度",
+								"value": "A"
+							},
+							{
+								"label": "总辐射量",
+								"value": "B"
+							},
+							{
+								"label": "太阳辐射强度",
+								"value": "C"
+							},
+							{
+								"label": "以上均对",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "地面能吸收太阳短波辐射，同时按其本身的温度不断地向外放射()。",
+						"options": [{
+								"label": "能量",
+								"value": "A"
+							},
+							{
+								"label": "热辐射",
+								"value": "B"
+							},
+							{
+								"label": "长波辐射",
+								"value": "C"
+							},
+							{
+								"label": "短波辐射",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "形成霰常与碰撞合并有关，所以生成霰的云，多有乱流存在使它下降时常带有()。",
+						"options": [{
+								"label": "间歇性",
+								"value": "A"
+							},
+							{
+								"label": "连续性",
+								"value": "B"
+							},
+							{
+								"label": "阵性",
+								"value": "C"
+							},
+							{
+								"label": "不确定",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "地面有效辐射就是地面辐射与()之差。",
+						"options": [{
+								"label": "地面吸收的大气逆辐射",
+								"value": "A"
+							},
+							{
+								"label": "地面吸收的逆辐射",
+								"value": "B"
+							},
+							{
+								"label": "太阳的直接辐射",
+								"value": "C"
+							},
+							{
+								"label": "太阳的散射辐射",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "气块上升到使水汽达到饱和时的高度为()。",
+						"options": [{
+								"label": "自由对流高度",
+								"value": "A"
+							},
+							{
+								"label": "抬升凝结高度",
+								"value": "B"
+							},
+							{
+								"label": "对流凝结高度",
+								"value": "C"
+							},
+							{
+								"label": "凝结高度",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "地球─大气系统得到的热量来源主要是()。",
+						"options": [{
+								"label": "地表面篜发",
+								"value": "A"
+							},
+							{
+								"label": "太阳辐射",
+								"value": "B"
+							},
+							{
+								"label": "湍流运动",
+								"value": "C"
+							},
+							{
+								"label": "海洋、植物等散热",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "决定地面温度变化的重要因子是()。",
+						"options": [{
+								"label": "地球吸收热量的多少",
+								"value": "A"
+							},
+							{
+								"label": "地球吸收太阳辐射的多少",
+								"value": "B"
+							},
+							{
+								"label": "地球吸收与释放的热量差",
+								"value": "C"
+							},
+							{
+								"label": "地球吸收与释放的热量差",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "近地层气温日变化的特征是，一日内有一个最高值和一个最低值。最高值一般出现在()左右。",
+						"options": [{
+								"label": "12时",
+								"value": "A"
+							},
+							{
+								"label": "13时",
+								"value": "B"
+							},
+							{
+								"label": "14时",
+								"value": "C"
+							},
+							{
+								"label": "16时",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "饱和水汽压是随温度的升高而()的。",
+						"options": [{
+								"label": "减小",
+								"value": "A"
+							},
+							{
+								"label": "增大",
+								"value": "B"
+							},
+							{
+								"label": "不变",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "同温度t＜0℃下冰面上的饱和水汽压()过冷水面上的饱和水汽压。",
+						"options": [{
+								"label": "大于",
+								"value": "A"
+							},
+							{
+								"label": "小于",
+								"value": "B"
+							},
+							{
+								"label": "等于",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当温度恰好为0℃，冰和水处于过渡状态时，两者的饱和水汽压()。",
+						"options": [{
+								"label": "不等",
+								"value": "A"
+							},
+							{
+								"label": "相等",
+								"value": "B"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "气压相差一个单位值所对应的高度差是()。",
+						"options": [{
+								"label": "单位高度气压差",
+								"value": "A"
+							},
+							{
+								"label": "空气密度",
+								"value": "B"
+							},
+							{
+								"label": "压高公式",
+								"value": "C"
+							},
+							{
+								"label": "单位气压高度差",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当温度为0.0076℃，压强为6.11hPa时，水可以气、液、固三态同时并存，这一点便称为水的（）。",
+						"options": [{
+								"label": "三相相等",
+								"value": "A"
+							},
+							{
+								"label": "三相不等",
+								"value": "B"
+							},
+							{
+								"label": "三相点",
+								"value": "C"
+							},
+							{
+								"label": "平衡点",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "一般认为水温降低到0℃以下就会结冰，然而有时云中的温度低于()以下依然有过冷水滴存在，这说明云中冰晶的生成，只是温度降低到0℃一个条件是不够的。",
+						"options": [{
+								"label": "－1℃",
+								"value": "A"
+							},
+							{
+								"label": "－2℃",
+								"value": "B"
+							},
+							{
+								"label": "－5℃",
+								"value": "C"
+							},
+							{
+								"label": "－10℃",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在晴朗微风，近地面气层中水汽含量充沛且低空中存在逆温层的情况下，容易形成()。",
+						"options": [{
+								"label": "上坡雾",
+								"value": "A"
+							},
+							{
+								"label": "辐射雾",
+								"value": "B"
+							},
+							{
+								"label": "平流雾",
+								"value": "C"
+							},
+							{
+								"label": "蒸发雾",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "霾一般出现在逆温层之下，它的浓度通常()。",
+						"options": [{
+								"label": "不随高度而增加",
+								"value": "A"
+							},
+							{
+								"label": "随高度而减少",
+								"value": "B"
+							},
+							{
+								"label": "与湿度有关",
+								"value": "C"
+							},
+							{
+								"label": "随高度而增加",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "()有明显的日变化。一般在夜间至凌晨形成，日出前后最浓，以后随着气温的升高，雾滴蒸发，雾由浓变淡，逐渐消散。消散的时间一般在上午8～10点。",
+						"options": [{
+								"label": "平流雾",
+								"value": "A"
+							},
+							{
+								"label": "蒸发雾",
+								"value": "B"
+							},
+							{
+								"label": "辐射雾",
+								"value": "C"
+							},
+							{
+								"label": "锋面雾",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "云滴的物态是指组成的云滴是水滴还是冰晶，它主要决定于云体的()。",
+						"options": [{
+								"label": "厚度",
+								"value": "A"
+							},
+							{
+								"label": "湿度",
+								"value": "B"
+							},
+							{
+								"label": "水滴或冰晶的多少",
+								"value": "C"
+							},
+							{
+								"label": "温度",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当云体温度在()之间时，云滴大多为过冷水滴，少数为冰晶。",
+						"options": [{
+								"label": "0℃到-2℃",
+								"value": "A"
+							},
+							{
+								"label": "-2℃到-10℃",
+								"value": "B"
+							},
+							{
+								"label": "0℃到-0℃",
+								"value": "C"
+							},
+							{
+								"label": "0℃到-15℃",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当云体温度在()之间时，云为过冷水滴与冰晶共同组成的混合云。",
+						"options": [{
+								"label": "-5℃到-10℃",
+								"value": "A"
+							},
+							{
+								"label": "-10℃到-15℃",
+								"value": "B"
+							},
+							{
+								"label": "-15℃到-30℃",
+								"value": "C"
+							},
+							{
+								"label": "-30℃到-35℃",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当云体温度低于()时，云为冰晶组成的冰云。",
+						"options": [{
+								"label": "-30℃",
+								"value": "A"
+							},
+							{
+								"label": "-10℃",
+								"value": "B"
+							},
+							{
+								"label": "-15℃",
+								"value": "C"
+							},
+							{
+								"label": "-25℃",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当天空有由冰晶组成的薄的()时，在日、月周围会出现一些以日月为中心的彩色光环和圆弧，称为晕。",
+						"options": [{
+								"label": "卷云",
+								"value": "A"
+							},
+							{
+								"label": "卷积云",
+								"value": "B"
+							},
+							{
+								"label": "卷云或卷积云",
+								"value": "C"
+							},
+							{
+								"label": "卷云或卷层云",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "蒸发量的大小主要取决于()。",
+						"options": [{
+								"label": "云量",
+								"value": "A"
+							},
+							{
+								"label": "湿度",
+								"value": "B"
+							},
+							{
+								"label": "太阳强度",
+								"value": "C"
+							},
+							{
+								"label": "风和湍流",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在晴朗微风、湿度大的夜间，地面或地物温度在0℃以下时，在物体的水平或倾斜的表面上，容易形成白色松脆的冰晶，呈刺状或冰珠，这是()现象。",
+						"options": [{
+								"label": "雨凇",
+								"value": "A"
+							},
+							{
+								"label": "露",
+								"value": "B"
+							},
+							{
+								"label": "霜",
+								"value": "C"
+							},
+							{
+								"label": "雾淞",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "大气声学的主要内容是研究不同的气象条件对()传播的影响。",
+						"options": [{
+								"label": "重力波",
+								"value": "A"
+							},
+							{
+								"label": "声波",
+								"value": "B"
+							},
+							{
+								"label": "横波",
+								"value": "C"
+							},
+							{
+								"label": "纵波",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "声音在大气中的传播，是()的输送过程。",
+						"options": [{
+								"label": "热量",
+								"value": "A"
+							},
+							{
+								"label": "高密度向低密度",
+								"value": "B"
+							},
+							{
+								"label": "介质",
+								"value": "C"
+							},
+							{
+								"label": "能量",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "绝对黑体在自然界是()的。",
+						"options": [{
+								"label": "存在",
+								"value": "A"
+							},
+							{
+								"label": "不存在",
+								"value": "B"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "云层对太阳辐射的()，使到达地面的太阳直接辐射减少。",
+						"options": [{
+								"label": "吸收",
+								"value": "A"
+							},
+							{
+								"label": "反射",
+								"value": "B"
+							},
+							{
+								"label": "辐射",
+								"value": "C"
+							},
+							{
+								"label": "折射",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A",
+							"B",
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "臭氧能大量吸收太阳()，使含臭氧的大气层增暖。",
+						"options": [{
+								"label": "可见光",
+								"value": "A"
+							},
+							{
+								"label": "电磁波",
+								"value": "B"
+							},
+							{
+								"label": "红外辐射",
+								"value": "C"
+							},
+							{
+								"label": "紫外辐射",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "二氧化碳仅占干洁空气质量的0.05％，多集中在()高度以下。它的含量一般是夜间多白天少，阴天多晴天少。",
+						"options": [{
+								"label": "10千米",
+								"value": "A"
+							},
+							{
+								"label": "20千米",
+								"value": "B"
+							},
+							{
+								"label": "30千米",
+								"value": "C"
+							},
+							{
+								"label": "5千米",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "所谓均质大气，即假定大气密度随高度()。",
+						"options": [{
+								"label": "增加",
+								"value": "A"
+							},
+							{
+								"label": "降低",
+								"value": "B"
+							},
+							{
+								"label": "不变",
+								"value": "C"
+							},
+							{
+								"label": "变化",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在两边是山或高地的峡窄低地，常出现比附近地区大得多的风，叫做()。",
+						"options": [{
+								"label": "谷风",
+								"value": "A"
+							},
+							{
+								"label": "对流风",
+								"value": "B"
+							},
+							{
+								"label": "峡谷风",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当空气沿着圆形等压线等速运动时，受到气压梯度力、地转偏向力、惯性离心力三力的作用，此三力平衡下的风即为()。",
+						"options": [{
+								"label": "地转风",
+								"value": "A"
+							},
+							{
+								"label": "旋转风",
+								"value": "B"
+							},
+							{
+								"label": "梯度风",
+								"value": "C"
+							},
+							{
+								"label": "热成风",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "空气块在垂直运动过程中其温度作绝热变化时，气块与外界不发生()。",
+						"options": [{
+								"label": "热量交换",
+								"value": "A"
+							},
+							{
+								"label": "热量和质量交换",
+								"value": "B"
+							},
+							{
+								"label": "质量交换",
+								"value": "C"
+							},
+							{
+								"label": "物理变化",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在()层次中，温度受地面增热和冷却的影响很大。",
+						"options": [{
+								"label": "对流层下层",
+								"value": "A"
+							},
+							{
+								"label": "从地面起到1～1.5千米",
+								"value": "B"
+							},
+							{
+								"label": "低层",
+								"value": "C"
+							},
+							{
+								"label": "1千米以下的大气边界层",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在天旱已久时，阳光下空气对流旺盛，大气中尘埃较多，此时出现霞光，且红光显得纯净，这预兆()。",
+						"options": [{
+								"label": "刮风",
+								"value": "A"
+							},
+							{
+								"label": "有雨",
+								"value": "B"
+							},
+							{
+								"label": "晴天",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "一般情况下，500百帕高空水汽含量是地面的()。",
+						"options": [{
+								"label": "十分之一",
+								"value": "A"
+							},
+							{
+								"label": "五分之一",
+								"value": "B"
+							},
+							{
+								"label": "二分之一",
+								"value": "C"
+							},
+							{
+								"label": "零",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "近地面层逆温主要由()引起。",
+						"options": [{
+								"label": "动力原因",
+								"value": "A"
+							},
+							{
+								"label": "热力原因",
+								"value": "B"
+							},
+							{
+								"label": "湍流原因",
+								"value": "C"
+							},
+							{
+								"label": "下沉原因",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "由于大气中的水汽来源于海面和地表的蒸发，所以主要集中在()。",
+						"options": [{
+								"label": "地面",
+								"value": "A"
+							},
+							{
+								"label": "对流层中上层",
+								"value": "B"
+							},
+							{
+								"label": "对流层的下半部",
+								"value": "C"
+							},
+							{
+								"label": "平流层",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "如果雨后晴天，东方出现朝霞，这是()。",
+						"options": [{
+								"label": "雨兆",
+								"value": "A"
+							},
+							{
+								"label": "风兆",
+								"value": "B"
+							},
+							{
+								"label": "表明阴天",
+								"value": "C"
+							},
+							{
+								"label": "表明天热",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "常见的晕视半径为22°和46°的圆环，色彩排列是()。",
+						"options": [{
+								"label": "外红内紫",
+								"value": "A"
+							},
+							{
+								"label": "内红外紫",
+								"value": "B"
+							},
+							{
+								"label": "外红内黄",
+								"value": "C"
+							},
+							{
+								"label": "内黄外紫",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "如果傍晚看到东方出现虹，表明天气将()。",
+						"options": [{
+								"label": "变坏",
+								"value": "A"
+							},
+							{
+								"label": "变好",
+								"value": "B"
+							},
+							{
+								"label": "有雨",
+								"value": "C"
+							},
+							{
+								"label": "刮风",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "有时在虹的外侧，还会出现一个与虹弧同心，视半径为52度，色彩较淡，排列顺序为()的圆弧光带，称为霓。",
+						"options": [{
+								"label": "内红外紫",
+								"value": "A"
+							},
+							{
+								"label": "外红内紫",
+								"value": "B"
+							},
+							{
+								"label": "内红外橙",
+								"value": "C"
+							},
+							{
+								"label": "外红内绿",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "晕是由于日月光通过云中()折射或反射后再到达人的眼睛而形成的。",
+						"options": [{
+								"label": "水滴",
+								"value": "A"
+							},
+							{
+								"label": "冰晶",
+								"value": "B"
+							},
+							{
+								"label": "云滴",
+								"value": "C"
+							},
+							{
+								"label": "水汽",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "华的色彩排列是()。",
+						"options": [{
+								"label": "内红外紫",
+								"value": "A"
+							},
+							{
+								"label": "内黄外红",
+								"value": "B"
+							},
+							{
+								"label": "内紫外红",
+								"value": "C"
+							},
+							{
+								"label": "内紫外绿",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "曙暮时间天空的亮光实质上就是当太阳在地平线以下时，大气对阳光的()，称为曙暮光。",
+						"options": [{
+								"label": "折射光",
+								"value": "A"
+							},
+							{
+								"label": "漫射光",
+								"value": "B"
+							},
+							{
+								"label": "投射光",
+								"value": "C"
+							},
+							{
+								"label": "散射光",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在我国，30千米以下的年平均气温与标准大气非常接近，各高度的温度偏差大多在()℃以内。",
+						"options": [{
+								"label": "5",
+								"value": "A"
+							},
+							{
+								"label": "2",
+								"value": "B"
+							},
+							{
+								"label": "±2",
+								"value": "C"
+							},
+							{
+								"label": "±5",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "雷暴云中雷声隆隆，是由于云对雷声多次()的结果。",
+						"options": [{
+								"label": "反射",
+								"value": "A"
+							},
+							{
+								"label": "折射",
+								"value": "B"
+							},
+							{
+								"label": "散射",
+								"value": "C"
+							},
+							{
+								"label": "漫射",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在北半球大陆上，()季的气压最高。",
+						"options": [{
+								"label": "春",
+								"value": "A"
+							},
+							{
+								"label": "夏",
+								"value": "B"
+							},
+							{
+								"label": "秋",
+								"value": "C"
+							},
+							{
+								"label": "冬",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "对流层和平流层中的大气以及地球表面都可认为是处于()平衡状态。",
+						"options": [{
+								"label": "散射",
+								"value": "A"
+							},
+							{
+								"label": "漫射",
+								"value": "B"
+							},
+							{
+								"label": "辐射",
+								"value": "C"
+							},
+							{
+								"label": "放射",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当热力性积云处在太阳同一侧时，云的中部黝黑，边缘呈()色。",
+						"options": [{
+								"label": "黑",
+								"value": "A"
+							},
+							{
+								"label": "黄",
+								"value": "B"
+							},
+							{
+								"label": "红",
+								"value": "C"
+							},
+							{
+								"label": "金黄",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "气流过山时，如果大气稳定而潮湿，在迎风坡上可以生成()云。",
+						"options": [{
+								"label": "积状",
+								"value": "A"
+							},
+							{
+								"label": "波状",
+								"value": "B"
+							},
+							{
+								"label": "特殊",
+								"value": "C"
+							},
+							{
+								"label": "层状",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当上升气流使空气绝热冷却形成云时，如果遇到下降气流的阻挡不能继续向上伸展，而且云的边缘部分还要受下降气流影响逐渐蒸发变薄，便生成()云。",
+						"options": [{
+								"label": "积状",
+								"value": "A"
+							},
+							{
+								"label": "堡状",
+								"value": "B"
+							},
+							{
+								"label": "荚状",
+								"value": "C"
+							},
+							{
+								"label": "絮状",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "波状云的出现，一般说明空中某一高度上有()层。",
+						"options": [{
+								"label": "等温",
+								"value": "A"
+							},
+							{
+								"label": "波动",
+								"value": "B"
+							},
+							{
+								"label": "逆温",
+								"value": "C"
+							},
+							{
+								"label": "阻挡",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当高层云、雨层云处于暖锋上对流不稳定区域时，可演变成()云。",
+						"options": [{
+								"label": "积云",
+								"value": "A"
+							},
+							{
+								"label": "浓积云",
+								"value": "B"
+							},
+							{
+								"label": "高积云",
+								"value": "C"
+							},
+							{
+								"label": "积雨云",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "视觉对比感阈大时，能见距离()。",
+						"options": [{
+								"label": "打",
+								"value": "A"
+							},
+							{
+								"label": "小",
+								"value": "B"
+							},
+							{
+								"label": "不变",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "荚状云的出现，天气可能()。",
+						"options": [{
+								"label": "坏",
+								"value": "A"
+							},
+							{
+								"label": "好",
+								"value": "B"
+							},
+							{
+								"label": "有风",
+								"value": "C"
+							},
+							{
+								"label": "冬下雨",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "出现絮状高积云或堡状云时，表示在这个高度上()。",
+						"options": [{
+								"label": "气层稳定",
+								"value": "A"
+							},
+							{
+								"label": "气层不稳定",
+								"value": "B"
+							},
+							{
+								"label": "乱流",
+								"value": "C"
+							},
+							{
+								"label": "对流",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "空气的波动和乱流混合是交错进行的，影响厚度一般在()。",
+						"options": [{
+								"label": "数十米到数百米",
+								"value": "A"
+							},
+							{
+								"label": "数百米到1千米",
+								"value": "B"
+							},
+							{
+								"label": "1千米",
+								"value": "C"
+							},
+							{
+								"label": "1千米以上",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "设目标物与背景之间的亮度对比为K，视觉对比感阈为ε，当K＞ε时，目标物()。",
+						"options": [{
+								"label": "才能看得见",
+								"value": "A"
+							},
+							{
+								"label": "看不见",
+								"value": "B"
+							},
+							{
+								"label": "模糊",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "当雨滴经过温度低于0℃的冷气层时，就很快冻结成完全透明的圆球，这种圆球是()。",
+						"options": [{
+								"label": "霰",
+								"value": "A"
+							},
+							{
+								"label": "小冰雹",
+								"value": "B"
+							},
+							{
+								"label": "冰粒",
+								"value": "C"
+							},
+							{
+								"label": "米雪",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "形成平流雾的条件之一是有适当的风向风速，其风速一般在()之间。",
+						"options": [{
+								"label": "5～7米/秒",
+								"value": "A"
+							},
+							{
+								"label": "2～5米/秒",
+								"value": "B"
+							},
+							{
+								"label": "3～10米/秒",
+								"value": "C"
+							},
+							{
+								"label": "2～7米/秒",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "烟幕形成的条件之一是()米以下垂直风切变很小。",
+						"options": [{
+								"label": "300",
+								"value": "A"
+							},
+							{
+								"label": "600",
+								"value": "B"
+							},
+							{
+								"label": "1000",
+								"value": "C"
+							},
+							{
+								"label": "500",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "冬季，在高纬度地区，当空中湿度较大且温度很低时，可能出现()。",
+						"options": [{
+								"label": "冰粒",
+								"value": "A"
+							},
+							{
+								"label": "米雪",
+								"value": "B"
+							},
+							{
+								"label": "冰针",
+								"value": "C"
+							},
+							{
+								"label": "霰",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "天空布满层积云、高积云、且云层很厚和不断降低时，可能出现()降水。",
+						"options": [{
+								"label": "连续性",
+								"value": "A"
+							},
+							{
+								"label": "间隙性",
+								"value": "B"
+							},
+							{
+								"label": "混合型",
+								"value": "C"
+							},
+							{
+								"label": "稳定性",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "层云密布全天，云层较厚且云底较低时，可能出现毛毛雨或()。",
+						"options": [{
+								"label": "小雨",
+								"value": "A"
+							},
+							{
+								"label": "米雪",
+								"value": "B"
+							},
+							{
+								"label": "霰",
+								"value": "C"
+							},
+							{
+								"label": "雾",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "初冬或初春时节，当天空布满厚而低的云层，低层空气在摄氏0℃左右时，可能出现霰或()。",
+						"options": [{
+								"label": "冰针",
+								"value": "A"
+							},
+							{
+								"label": "冰粒",
+								"value": "B"
+							},
+							{
+								"label": "米雪",
+								"value": "C"
+							},
+							{
+								"label": "冻雨",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "气流受山的影响会形成()。",
+						"options": [{
+								"label": "地形波",
+								"value": "A"
+							},
+							{
+								"label": "涡旋",
+								"value": "B"
+							},
+							{
+								"label": "乱流",
+								"value": "C"
+							},
+							{
+								"label": "降温",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "气压年周期变化随海陆、地理纬度等的不同而异。通常陆上()海上。",
+						"options": [{
+								"label": "小于",
+								"value": "A"
+							},
+							{
+								"label": "大于",
+								"value": "B"
+							},
+							{
+								"label": "等于",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在北半球大陆上，()月气压最低。",
+						"options": [{
+								"label": "6",
+								"value": "A"
+							},
+							{
+								"label": "5",
+								"value": "B"
+							},
+							{
+								"label": "1",
+								"value": "C"
+							},
+							{
+								"label": "7",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "某探空站测得1500米高度上的气温为3℃，这一高度以上直至3000米高度气温的铅直递减率平均为0、6℃/100米，则3000米高度处的气温为()℃。",
+						"options": [{
+								"label": "9",
+								"value": "A"
+							},
+							{
+								"label": "-3",
+								"value": "B"
+							},
+							{
+								"label": "-9",
+								"value": "C"
+							},
+							{
+								"label": "-6",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "气压在一天中的最高值一般出现在当地地方时()。",
+						"options": [{
+								"label": "9—10时",
+								"value": "A"
+							},
+							{
+								"label": "21—22时",
+								"value": "B"
+							},
+							{
+								"label": "15—16时",
+								"value": "C"
+							},
+							{
+								"label": "10—11时",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					}
+				]
+			},
+			{
+				"chapter": "天气学",
+				"questions": [{
+						"title": "江淮梅雨的天气特征是()。",
+						"options": [{
+								"label": "雨季短，暴雨强度大",
+								"value": "A"
+							},
+							{
+								"label": "雨季长，降水较为连续，有时可达暴雨",
+								"value": "B"
+							},
+							{
+								"label": "雨季短，雨量很小",
+								"value": "C"
+							},
+							{
+								"label": "雨季短，呈间歇性，雨量少",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在高原天气分析中，常用()来表示气压系统的活动。",
+						"options": [{
+								"label": "海平面气压场",
+								"value": "A"
+							},
+							{
+								"label": "3小时变压",
+								"value": "B"
+							},
+							{
+								"label": "24小时变压",
+								"value": "C"
+							},
+							{
+								"label": "天气区",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "造成暴雨的直接天气系统是()。",
+						"options": [{
+								"label": "大尺度天气系统",
+								"value": "A"
+							},
+							{
+								"label": "天气尺度系统",
+								"value": "B"
+							},
+							{
+								"label": "中尺度天气系统",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "对我国夏季降水影响最明显的是()。",
+						"options": [{
+								"label": "热带西南季风",
+								"value": "A"
+							},
+							{
+								"label": "热带东南季风",
+								"value": "B"
+							},
+							{
+								"label": "印度西南季风",
+								"value": "C"
+							},
+							{
+								"label": "东风波",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "冬季我国的主要天气过程是寒潮过程，()是主要的天气现象。",
+						"options": [{
+								"label": "降温和大风",
+								"value": "A"
+							},
+							{
+								"label": "浮尘和扬沙",
+								"value": "B"
+							},
+							{
+								"label": "降雪和低能见度",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "青藏高原上有24小时()移入四川盆地，且高空风有西南转西北，不利于锋的存在。",
+						"options": [{
+								"label": "负变压",
+								"value": "A"
+							},
+							{
+								"label": "正变压",
+								"value": "B"
+							},
+							{
+								"label": "正变温",
+								"value": "C"
+							},
+							{
+								"label": "负变温",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "江淮气旋是造成江淮地区()的重要天气系统之一。",
+						"options": [{
+								"label": "低云",
+								"value": "A"
+							},
+							{
+								"label": "暴雨",
+								"value": "B"
+							},
+							{
+								"label": "低能见度",
+								"value": "C"
+							},
+							{
+								"label": "大风",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "雷暴过境前，通常地面风()。",
+						"options": [{
+								"label": "很强",
+								"value": "A"
+							},
+							{
+								"label": "很弱",
+								"value": "B"
+							},
+							{
+								"label": "不变",
+								"value": "C"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "静止锋雷暴的特点是：后半夜产生，白天逐渐消失。这是因为静止锋上有广阔的()，白天低层空气增温少，气层比较稳定，而夜间云顶辐射冷却强，气层反而不稳定的缘故。",
+						"options": [{
+								"label": "积雨云",
+								"value": "A"
+							},
+							{
+								"label": "高积云",
+								"value": "B"
+							},
+							{
+								"label": "雨层云",
+								"value": "C"
+							},
+							{
+								"label": "层积云",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "冷锋雷暴的移动速度快，每小时可达()千米。",
+						"options": [{
+								"label": "10～30",
+								"value": "A"
+							},
+							{
+								"label": "30～50",
+								"value": "B"
+							},
+							{
+								"label": "50～80",
+								"value": "C"
+							},
+							{
+								"label": "40～60",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					}
+				]
+			},
+			{
+				"chapter": "航空气象学",
+				"questions": [{
+						"title": "颠簸常常出现在对流层()。",
+						"options": [{
+								"label": "中层",
+								"value": "A"
+							},
+							{
+								"label": "上层",
+								"value": "B"
+							},
+							{
+								"label": "低层",
+								"value": "C"
+							},
+							{
+								"label": "整层",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "倾斜能见度是飞行员目视飞行时在座舱中能看到()的最远目标物距离。",
+						"options": [{
+								"label": "下方",
+								"value": "A"
+							},
+							{
+								"label": "前方",
+								"value": "B"
+							},
+							{
+								"label": "上方",
+								"value": "C"
+							},
+							{
+								"label": "地面",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "云中飞行时，机体碰撞过冷水滴后，如果机体表面温度低于()，过冷水滴就会在机体的某些部位冻结并积聚起来，形成飞机积冰。",
+						"options": [{
+								"label": "-5℃",
+								"value": "A"
+							},
+							{
+								"label": "-10℃",
+								"value": "B"
+							},
+							{
+								"label": "-3℃",
+								"value": "C"
+							},
+							{
+								"label": "0℃",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在全天侯着陆当中，最重要的气象要素是()。",
+						"options": [{
+								"label": "跑道能见度",
+								"value": "A"
+							},
+							{
+								"label": "水平能见度",
+								"value": "B"
+							},
+							{
+								"label": "云",
+								"value": "C"
+							},
+							{
+								"label": "跑道视程",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "()现象易造成飞机积冰。",
+						"options": [{
+								"label": "降水",
+								"value": "A"
+							},
+							{
+								"label": "云中",
+								"value": "B"
+							},
+							{
+								"label": "过冷却水滴",
+								"value": "C"
+							},
+							{
+								"label": "空中湿度大",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "积冰强度的大小与()有关。",
+						"options": [{
+								"label": "低云量",
+								"value": "A"
+							},
+							{
+								"label": "空气密度",
+								"value": "B"
+							},
+							{
+								"label": "降水量",
+								"value": "C"
+							},
+							{
+								"label": "云中含水量",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在飞机座舱玻璃干燥的情况下，干的混凝土跑道四周是黄绿色草地时，着陆能见度只相当于气象能见度的()％。",
+						"options": [{
+								"label": "40",
+								"value": "A"
+							},
+							{
+								"label": "25",
+								"value": "B"
+							},
+							{
+								"label": "30",
+								"value": "C"
+							},
+							{
+								"label": "55",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "进场航空器在下降穿越机场的过渡高度层，或者在过渡高度层以下进入修正海平面气压适用区域侧向边界时，飞行员应将高度表气压刻度调到本场的()值，其后航空器的垂直位置用高度表示。",
+						"options": [{
+								"label": "QFE",
+								"value": "A"
+							},
+							{
+								"label": "QNH",
+								"value": "B"
+							},
+							{
+								"label": "QNE",
+								"value": "C"
+							},
+							{
+								"label": "QEN",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "昼间飞行的含义指的是()。",
+						"options": [{
+								"label": "从日出到日落之间的飞行",
+								"value": "A"
+							},
+							{
+								"label": "从天黑到天亮之间的飞行",
+								"value": "B"
+							},
+							{
+								"label": "从天亮到日落之间的飞行",
+								"value": "C"
+							},
+							{
+								"label": "从日出到天黑之间的飞行",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "夜间飞行的含义指的是()。",
+						"options": [{
+								"label": "从天黑到天亮之间的飞行",
+								"value": "A"
+							},
+							{
+								"label": "从日落到天亮之间的飞行",
+								"value": "B"
+							},
+							{
+								"label": "从日落到日出之间的飞行",
+								"value": "C"
+							},
+							{
+								"label": "从天黑到日出之间的飞行",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "飞机上使用的空速表是根据()设计的。",
+						"options": [{
+								"label": "标准大气压",
+								"value": "A"
+							},
+							{
+								"label": "标准空气密度",
+								"value": "B"
+							},
+							{
+								"label": "发动机的功率",
+								"value": "C"
+							},
+							{
+								"label": "修正海平面气压",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在飞行中必须根据所在高度上的()值来修正空速表的示度。",
+						"options": [{
+								"label": "气压",
+								"value": "A"
+							},
+							{
+								"label": "空气密度",
+								"value": "B"
+							},
+							{
+								"label": "温度",
+								"value": "C"
+							},
+							{
+								"label": "海拔高度",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "飞行时，应考虑到()的日变化对下滑的影响。",
+						"options": [{
+								"label": "气压",
+								"value": "A"
+							},
+							{
+								"label": "风向",
+								"value": "B"
+							},
+							{
+								"label": "温度",
+								"value": "C"
+							},
+							{
+								"label": "太阳高度角冬",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "飞机在比标准大气暖的气层中飞行时，高度表的示度将()实际的飞行高度。",
+						"options": [{
+								"label": "高于",
+								"value": "A"
+							},
+							{
+								"label": "低于",
+								"value": "B"
+							},
+							{
+								"label": "等于",
+								"value": "C"
+							},
+							{
+								"label": "显示",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在航线上飞行时，必须根据飞行高度上的实际()来修正高度表的示度。",
+						"options": [{
+								"label": "气温",
+								"value": "A"
+							},
+							{
+								"label": "气压",
+								"value": "B"
+							},
+							{
+								"label": "高度",
+								"value": "C"
+							},
+							{
+								"label": "高度差",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"A"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "为了防止飞机在空中相撞，在航线上飞行的飞机上的气压高度表必须取统一的基准面，这个基准面是()。",
+						"options": [{
+								"label": "修正海平面气压",
+								"value": "A"
+							},
+							{
+								"label": "海平面",
+								"value": "B"
+							},
+							{
+								"label": "场面气压",
+								"value": "C"
+							},
+							{
+								"label": "1013.25hPa等压面",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"D"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在空中，飞行员报告的能见度一般是()能见度。",
+						"options": [{
+								"label": "水平",
+								"value": "A"
+							},
+							{
+								"label": "垂直",
+								"value": "B"
+							},
+							{
+								"label": "倾斜",
+								"value": "C"
+							},
+							{
+								"label": "最大",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"C"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					},
+					{
+						"title": "在高空飞行时，由于空气密度小，因而产生的升力也小。因此，机翼面积必须设计得尽可能()。",
+						"options": [{
+								"label": "小一些",
+								"value": "A"
+							},
+							{
+								"label": "大一些",
+								"value": "B"
+							},
+							{
+								"label": "成比例",
+								"value": "C"
+							},
+							{
+								"label": "薄一些",
+								"value": "D"
+							}
+						],
+						"answer": [
+							"B"
+						],
+						"explan": "",
+						"status": "",
+						"current": [
+
+						]
+					}
+				]
+			},
+			{
+				"chapter": "卫星雷达",
+				"questions": [{
+					"title": "在用激光雷达，微波雷达进行大气探测时，()也是误差产生的重要原因。",
+					"options": [{
+							"label": "大气散射",
+							"value": "A"
+						},
+						{
+							"label": "大气折射",
+							"value": "B"
+						},
+						{
+							"label": "天文折射",
+							"value": "C"
+						},
+						{
+							"label": "地面散射",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				}]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"part": "观测业务规定",
+		"choose": [{
+			"chapter": "观测业务规定",
+			"questions": [{
+					"title": "百叶箱内温度表的安装位置是（）。",
+					"options": [{
+							"label": "左测干球温度表右侧湿球温度表",
+							"value": "A"
+						},
+						{
+							"label": "右测干球温度表左侧湿球温度表",
+							"value": "B"
+						},
+						{
+							"label": "上测干球温度表下侧湿球温度表",
+							"value": "C"
+						},
+						{
+							"label": "上侧湿球温度表下干球温度表",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "例行观测迟测时应当及时进行补测，记录补测时间应当加记（）。",
+					"options": [{
+							"label": "()",
+							"value": "A"
+						},
+						{
+							"label": "[]",
+							"value": "B"
+						},
+						{
+							"label": "<>",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "风向风速仪感应部分安置在风塔或塔杆上，离地面的垂直高度为()米，指北杆对准正北。",
+					"options": [{
+							"label": "4-6",
+							"value": "A"
+						},
+						{
+							"label": "6-10",
+							"value": "B"
+						},
+						{
+							"label": "10",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "用于测量跑道视程的透射仪传感器发射和接收镜头相对跑道面高度约为（）米；测量跑道视程的前向散射仪发射和接收光路交叉点的高度相对跑道面高度约为（）米。",
+					"options": [{
+							"label": "2.5",
+							"value": "A"
+						},
+						{
+							"label": "2",
+							"value": "B"
+						},
+						{
+							"label": "3",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象自动观测设备中温度、湿度和气压传感器距地面的垂直距离为()米。",
+					"options": [{
+							"label": "1.2",
+							"value": "A"
+						},
+						{
+							"label": "1.5",
+							"value": "B"
+						},
+						{
+							"label": "2",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列哪种天气现象要判定强度：()。",
+					"options": [{
+							"label": "雷暴",
+							"value": "A"
+						},
+						{
+							"label": "高吹沙",
+							"value": "B"
+						},
+						{
+							"label": "冰雹",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列天气现象不能与SH结合使用的是：()。",
+					"options": [{
+							"label": "SN",
+							"value": "A"
+						},
+						{
+							"label": "GR",
+							"value": "B"
+						},
+						{
+							"label": "DZ",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在METAR和SPECI中，应当报告()。",
+					"options": [{
+							"label": "主导能见度",
+							"value": "A"
+						},
+						{
+							"label": "跑道方向能见度",
+							"value": "B"
+						},
+						{
+							"label": "MOR",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在METREPORT和SPECIAL中，应当报告()。",
+					"options": [{
+							"label": "主导能见度",
+							"value": "A"
+						},
+						{
+							"label": "跑道方向能见度",
+							"value": "B"
+						},
+						{
+							"label": "MOR",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在METREPORT和SPECIAL中，当测量能见度的仪器运行正常时，应当报告（）分钟平均的能见度数值。",
+					"options": [{
+							"label": "十",
+							"value": "A"
+						},
+						{
+							"label": "二",
+							"value": "B"
+						},
+						{
+							"label": "一",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当风速为3米/秒，风向在340至50度范围内变化时，风向变化范围应记为()。",
+					"options": [{
+							"label": "340V050",
+							"value": "A"
+						},
+						{
+							"label": "340-50",
+							"value": "B"
+						},
+						{
+							"label": "340V50",
+							"value": "C"
+						},
+						{
+							"label": "340-050",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "RVR的10分钟平均为500米，最大的一分钟平均为550米，最小为300米，应记为()。",
+					"options": [{
+							"label": "500",
+							"value": "A"
+						},
+						{
+							"label": "300－550",
+							"value": "B"
+						},
+						{
+							"label": "300",
+							"value": "C"
+						},
+						{
+							"label": "300V550",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当主导能见度演变到()时，应在纪要栏记录其演变过程。",
+					"options": [{
+							"label": "＜本场运行最低标准",
+							"value": "A"
+						},
+						{
+							"label": "＜本场SPECI报告标准中的最大值",
+							"value": "B"
+						},
+						{
+							"label": "＜本场特殊观测标准中的最小值",
+							"value": "C"
+						},
+						{
+							"label": "≤本场SPECI报告标准中的最大值",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "跑道视程显示为40米，观测记录簿RVR栏应记录为()。",
+					"options": [{
+							"label": "40",
+							"value": "A"
+						},
+						{
+							"label": "0040",
+							"value": "B"
+						},
+						{
+							"label": "M0050",
+							"value": "C"
+						},
+						{
+							"label": "M50",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "假如观测到主导能见度为1155米，应记录为()。",
+					"options": [{
+							"label": "1100",
+							"value": "A"
+						},
+						{
+							"label": "1150",
+							"value": "B"
+						},
+						{
+							"label": "1155",
+							"value": "C"
+						},
+						{
+							"label": "1000",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "瞬间风速是指()的风速平均值。",
+					"options": [{
+							"label": "1秒钟",
+							"value": "A"
+						},
+						{
+							"label": "10秒钟",
+							"value": "B"
+						},
+						{
+							"label": "3秒钟",
+							"value": "C"
+						},
+						{
+							"label": "1分钟",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "夜间以目测方式观测能见度时，观测员应当首先在黑暗处停留()分钟，待眼睛适应环境后再进行观测。",
+					"options": [{
+							"label": "3-15",
+							"value": "A"
+						},
+						{
+							"label": "4-10",
+							"value": "B"
+						},
+						{
+							"label": "5-15",
+							"value": "C"
+						},
+						{
+							"label": "15-25",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当天空不明、有影响垂直能见度的天气现象时，观测簿的总云量、低云量、中云量、高云量栏应记录()。",
+					"options": [{
+							"label": "8",
+							"value": "A"
+						},
+						{
+							"label": "0",
+							"value": "B"
+						},
+						{
+							"label": "－",
+							"value": "C"
+						},
+						{
+							"label": "省略不记",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "层积云云块视宽度角()。",
+					"options": [{
+							"label": "大于5°",
+							"value": "A"
+						},
+						{
+							"label": "1°-5°",
+							"value": "B"
+						},
+						{
+							"label": "小于1°",
+							"value": "C"
+						},
+						{
+							"label": "大于10°",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "高积云云块视宽度角()。",
+					"options": [{
+							"label": "大于5°",
+							"value": "A"
+						},
+						{
+							"label": "1°-5°",
+							"value": "B"
+						},
+						{
+							"label": "小于1°",
+							"value": "C"
+						},
+						{
+							"label": "大于10°",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "卷积云云块视宽度角()。",
+					"options": [{
+							"label": "大于5°",
+							"value": "A"
+						},
+						{
+							"label": "1°-5°",
+							"value": "B"
+						},
+						{
+							"label": "小于1°",
+							"value": "C"
+						},
+						{
+							"label": "小于5°",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "薄的高层云容易误认为厚的卷层云，下面哪种是高层云()。",
+					"options": [{
+							"label": "日月轮廓分明，地物有影或有晕",
+							"value": "A"
+						},
+						{
+							"label": "能辨出日月位置，地物无影也无晕",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "积状云包括()。",
+					"options": [{
+							"label": "积云积雨云卷云卷积云",
+							"value": "A"
+						},
+						{
+							"label": "积云积雨云",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在北半球大陆上，()季的气压最高。",
+					"options": [{
+							"label": "春",
+							"value": "A"
+						},
+						{
+							"label": "夏",
+							"value": "B"
+						},
+						{
+							"label": "秋",
+							"value": "C"
+						},
+						{
+							"label": "冬",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "层状云包括()",
+					"options": [{
+							"label": "雨层云高层云",
+							"value": "A"
+						},
+						{
+							"label": "雨层云高层云卷层云",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "波状云包括()。",
+					"options": [{
+							"label": "层积云层云高积云卷积云",
+							"value": "A"
+						},
+						{
+							"label": "层积云高积云卷积云",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在观测簿记录中，下列简写哪项是正确的()。",
+					"options": [{
+							"label": "CBTCU",
+							"value": "A"
+						},
+						{
+							"label": "CTCu",
+							"value": "B"
+						},
+						{
+							"label": "CbTcu",
+							"value": "C"
+						},
+						{
+							"label": "CbTCU",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "低云量是指低云族各类、种云()。",
+					"options": [{
+							"label": "共同遮蔽天空的份数",
+							"value": "A"
+						},
+						{
+							"label": "分别遮蔽天空的份数",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "中云量是指中云族各类、种云()。",
+					"options": [{
+							"label": "共同遮蔽天空的份数",
+							"value": "A"
+						},
+						{
+							"label": "分别遮蔽天空的份数",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "高云量是指高云族各类、种云()。",
+					"options": [{
+							"label": "共同遮蔽天空的份数",
+							"value": "A"
+						},
+						{
+							"label": "分别遮蔽天空的份数",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "分云量是指天空中不同类别、种别的云的()。",
+					"options": [{
+							"label": "各自云量",
+							"value": "A"
+						},
+						{
+							"label": "合计云量",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测某一云层的底部高度时，若底部起伏不平()。",
+					"options": [{
+							"label": "应以该云层最低部分的云高为准",
+							"value": "A"
+						},
+						{
+							"label": "应以该云层底部平均云高为准",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测云高应当按天空中不同层次的云分别进行，如果某一云层的底部起伏不平，应当以该云层（）的云高确定为该云层的云高。",
+					"options": [{
+							"label": "最低部分",
+							"value": "A"
+						},
+						{
+							"label": "最高部分",
+							"value": "B"
+						},
+						{
+							"label": "中间部分",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "淡积云和碎积云出现在同一高度上，云状记录为()。",
+					"options": [{
+							"label": "CuFc",
+							"value": "A"
+						},
+						{
+							"label": "Cu",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "出现轻雾时，主导能见度范围在()。",
+					"options": [{
+							"label": "≥1000米至＜10000米之间",
+							"value": "A"
+						},
+						{
+							"label": "＞1000米至＜10000米",
+							"value": "B"
+						},
+						{
+							"label": "＜10000米",
+							"value": "C"
+						},
+						{
+							"label": "＞1000米至＜5000米",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "冻雾是指()。",
+					"options": [{
+							"label": "冻结的雾",
+							"value": "A"
+						},
+						{
+							"label": "气温在0℃以下出现的雾",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "出现烟、霾、浮尘时，主导能见度范围在()。",
+					"options": [{
+							"label": "≥1000米—＜10000米",
+							"value": "A"
+						},
+						{
+							"label": "＜10000米",
+							"value": "B"
+						},
+						{
+							"label": ">1000米—＜10000米",
+							"value": "C"
+						},
+						{
+							"label": "＜1000米",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "出现扬沙时，主导能见度()。",
+					"options": [{
+							"label": "≥1000米—＜10000米",
+							"value": "A"
+						},
+						{
+							"label": "＜10000米",
+							"value": "B"
+						},
+						{
+							"label": ">1000米—＜10000米",
+							"value": "C"
+						},
+						{
+							"label": "＜1000米",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "选择目标灯的条件有()。",
+					"options": [{
+							"label": "孤立的灯光",
+							"value": "A"
+						},
+						{
+							"label": "带颜色的强灯光",
+							"value": "B"
+						},
+						{
+							"label": "白炽灯",
+							"value": "C"
+						},
+						{
+							"label": "亮度稳定",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ACD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "选择目标物的条件有()。",
+					"options": [{
+							"label": "暗色物体",
+							"value": "A"
+						},
+						{
+							"label": "最好以靠近地平线的天空为背景",
+							"value": "B"
+						},
+						{
+							"label": "大小适度",
+							"value": "C"
+						},
+						{
+							"label": "高度角宜>6度",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABC"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测场内仪器之间要保持一定距离，以利于空气流通。25米×25米规格的观测场，南北、东西间距应当不小于()米。",
+					"options": [{
+							"label": "3",
+							"value": "A"
+						},
+						{
+							"label": "4",
+							"value": "B"
+						},
+						{
+							"label": "2",
+							"value": "C"
+						},
+						{
+							"label": "5",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测场内杂草应及时修剪，草高不得超过()米。",
+					"options": [{
+							"label": "0.3",
+							"value": "A"
+						},
+						{
+							"label": "0.4",
+							"value": "B"
+						},
+						{
+							"label": "0.2",
+							"value": "C"
+						},
+						{
+							"label": "0.1",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "雨量筒应安置在观测内的木柱上或铁架上，筒口保持水平，高出地面()米。",
+					"options": [{
+							"label": "1.5",
+							"value": "A"
+						},
+						{
+							"label": "0.5",
+							"value": "B"
+						},
+						{
+							"label": "0.7",
+							"value": "C"
+						},
+						{
+							"label": "0.8",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "高积云云块比层积云块小，多数云块的视宽度角为()度，轮廓分明。",
+					"options": [{
+							"label": "1～2",
+							"value": "A"
+						},
+						{
+							"label": "3～4",
+							"value": "B"
+						},
+						{
+							"label": "2～5",
+							"value": "C"
+						},
+						{
+							"label": "1～5",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当许多小块积云聚在一起，尤其是在天边时，很象层积云或高积云，这时，只要云顶凸起，云底还没有融合，就应判别为()。",
+					"options": [{
+							"label": "卷积云",
+							"value": "A"
+						},
+						{
+							"label": "堡状云",
+							"value": "B"
+						},
+						{
+							"label": "积云",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "选择能见度目标物时，大小要适度。近的小一些，远的大一些。通常以视角在()之间为宜。",
+					"options": [{
+							"label": "1～5°",
+							"value": "A"
+						},
+						{
+							"label": "2～5°",
+							"value": "B"
+						},
+						{
+							"label": "0.5～5°",
+							"value": "C"
+						},
+						{
+							"label": "0.2～5°",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在降雪之前观测到白色不透明的圆形颗粒，直径约3毫米，一碰即碎，落在硬地时还反跳，这是()",
+					"options": [{
+							"label": "米雪",
+							"value": "A"
+						},
+						{
+							"label": "小冰雹",
+							"value": "B"
+						},
+						{
+							"label": "冰粒",
+							"value": "C"
+						},
+						{
+							"label": "霰",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时平均风速3米/秒，突然增加到12米/秒，而且维持了3分钟，这种现象是()。",
+					"options": [{
+							"label": "大风",
+							"value": "A"
+						},
+						{
+							"label": "阵风",
+							"value": "B"
+						},
+						{
+							"label": "龙卷",
+							"value": "C"
+						},
+						{
+							"label": "飑",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "相对湿度由0％变到100％时，毛发的总延长量能达到原来长度的()％。",
+					"options": [{
+							"label": "3.0",
+							"value": "A"
+						},
+						{
+							"label": "2.4",
+							"value": "B"
+						},
+						{
+							"label": "4.0",
+							"value": "C"
+						},
+						{
+							"label": "2.5",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测到透明的丸粒状的固体降水。质地坚硬，不易破碎，落在硬地时明显反跳，并发出清脆声，其直径为4毫米，这是()。",
+					"options": [{
+							"label": "米雪",
+							"value": "A"
+						},
+						{
+							"label": "小冰雹",
+							"value": "B"
+						},
+						{
+							"label": "霰",
+							"value": "C"
+						},
+						{
+							"label": "冰粒",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "毛发湿度表应在气温降低到()℃前一个月左右，垂直地悬挂在百叶箱内。",
+					"options": [{
+							"label": "-15",
+							"value": "A"
+						},
+						{
+							"label": "-10",
+							"value": "B"
+						},
+						{
+							"label": "-8",
+							"value": "C"
+						},
+						{
+							"label": "-20",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "相邻两时区的中央经线，经度相差()度。",
+					"options": [{
+							"label": "10",
+							"value": "A"
+						},
+						{
+							"label": "15",
+							"value": "B"
+						},
+						{
+							"label": "12",
+							"value": "C"
+						},
+						{
+							"label": "13",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "雨层云云底高度出现范围是()米。",
+					"options": [{
+							"label": "100—2000",
+							"value": "A"
+						},
+						{
+							"label": "500—3000",
+							"value": "B"
+						},
+						{
+							"label": "200—1000",
+							"value": "C"
+						},
+						{
+							"label": "50—2000",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "高积云云底高度出现范围是()米。",
+					"options": [{
+							"label": "3000—7000",
+							"value": "A"
+						},
+						{
+							"label": "2500—5000",
+							"value": "B"
+						},
+						{
+							"label": "4000—6000",
+							"value": "C"
+						},
+						{
+							"label": "2500—6000",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "卷云云底高度出现范围是()米。",
+					"options": [{
+							"label": "6000—10000",
+							"value": "A"
+						},
+						{
+							"label": "5000—8000",
+							"value": "B"
+						},
+						{
+							"label": "10000以上",
+							"value": "C"
+						},
+						{
+							"label": "4500—16000",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "目标物的颜色、细小部分很难分辨时，能见度可定为大于该目标物距离，但不应超过()。",
+					"options": [{
+							"label": "2倍",
+							"value": "A"
+						},
+						{
+							"label": "3倍",
+							"value": "B"
+						},
+						{
+							"label": "2.5倍",
+							"value": "C"
+						},
+						{
+							"label": "4倍",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "目标物的颜色、细小部分隐约可辨时，能见度可定为该目标物距离的()。",
+					"options": [{
+							"label": "3—5倍",
+							"value": "A"
+						},
+						{
+							"label": "1—3倍",
+							"value": "B"
+						},
+						{
+							"label": "2.5倍—5倍",
+							"value": "C"
+						},
+						{
+							"label": "5倍",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象光学视程（MOR）指色温度为2700K时，白炽灯发出的平行光束被大气吸收和散射后，光束衰减到()％的距离。",
+					"options": [{
+							"label": "10",
+							"value": "A"
+						},
+						{
+							"label": "20",
+							"value": "B"
+						},
+						{
+							"label": "5",
+							"value": "C"
+						},
+						{
+							"label": "15",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测场确需迁移时，须保证()的资料齐全。",
+					"options": [{
+							"label": "一年",
+							"value": "A"
+						},
+						{
+							"label": "满月",
+							"value": "B"
+						},
+						{
+							"label": "半年",
+							"value": "C"
+						},
+						{
+							"label": "半个月",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "人工观测台站，当气温低于()以下时，应停止观测最高温度表。",
+					"options": [{
+							"label": "－30℃",
+							"value": "A"
+						},
+						{
+							"label": "－36℃",
+							"value": "B"
+						},
+						{
+							"label": "－16℃",
+							"value": "C"
+						},
+						{
+							"label": "－20℃",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "需要在每个起止及演变时间分钟数的下面记录其所在方向的有()。",
+					"options": [{
+							"label": "雷雨",
+							"value": "A"
+						},
+						{
+							"label": "雪暴和雷暴",
+							"value": "B"
+						},
+						{
+							"label": "雷暴和龙卷",
+							"value": "C"
+						},
+						{
+							"label": "龙卷和雪暴",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "受FG影响有垂直能见度90米，在观测簿的低云“量、状、高”栏内记录()。",
+					"options": [{
+							"label": "VV90",
+							"value": "A"
+						},
+						{
+							"label": "FG090",
+							"value": "B"
+						},
+						{
+							"label": "FG90",
+							"value": "C"
+						},
+						{
+							"label": "VV003",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "冰针这种降水现象单独出现时，()判定它的强度。",
+					"options": [{
+							"label": "要",
+							"value": "A"
+						},
+						{
+							"label": "不要",
+							"value": "B"
+						},
+						{
+							"label": "依情况而定",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "最低温度表水平地安置在温度表支架下方靠外面的一对孤钩上，其球部朝东，高出干湿球部()厘米。",
+					"options": [{
+							"label": "3",
+							"value": "A"
+						},
+						{
+							"label": "4",
+							"value": "B"
+						},
+						{
+							"label": "2",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "5级风力相当于10米高处的平均风速()米/秒。",
+					"options": [{
+							"label": "4",
+							"value": "A"
+						},
+						{
+							"label": "6",
+							"value": "B"
+						},
+						{
+							"label": "9",
+							"value": "C"
+						},
+						{
+							"label": "11",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "静风是指两分钟或十分钟时距内风速平均小于()米/秒的风。",
+					"options": [{
+							"label": "0.8",
+							"value": "A"
+						},
+						{
+							"label": "1.0",
+							"value": "B"
+						},
+						{
+							"label": "0.4",
+							"value": "C"
+						},
+						{
+							"label": "0.5",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测资料应具备的“三性”是指()。",
+					"options": [{
+							"label": "代表性、比较性、及时性",
+							"value": "A"
+						},
+						{
+							"label": "代表性、准确性、比较性",
+							"value": "B"
+						},
+						{
+							"label": "代表性、准确性、连续性",
+							"value": "C"
+						},
+						{
+							"label": "准确性、比较性、及时性",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "感应部分安装高度为距地面1.50米的仪器为()。",
+					"options": [{
+							"label": "干湿球温度表",
+							"value": "A"
+						},
+						{
+							"label": "最高温度表",
+							"value": "B"
+						},
+						{
+							"label": "最低温度表",
+							"value": "C"
+						},
+						{
+							"label": "雨量器",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "出现浮尘时，水平能见度()。",
+					"options": [{
+							"label": "在1～10千米之间",
+							"value": "A"
+						},
+						{
+							"label": "＜10千米",
+							"value": "B"
+						},
+						{
+							"label": "＜1千米",
+							"value": "C"
+						},
+						{
+							"label": "≤1千米",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时，机场附近有强阵雨，观测簿现在天气栏记录()。",
+					"options": [{
+							"label": "VCSHRA",
+							"value": "A"
+						},
+						{
+							"label": "VCRA",
+							"value": "B"
+						},
+						{
+							"label": "+VCSHRA",
+							"value": "C"
+						},
+						{
+							"label": "VCSH",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当平均风向风速符合以下情况时需编报VRB（）。",
+					"options": [{
+							"label": "观测时段内风向变化大于等于60度小于180度，平均风速小于2米/秒",
+							"value": "A"
+						},
+						{
+							"label": "风向变化大于或等于180度",
+							"value": "B"
+						},
+						{
+							"label": "风向变化小于180度大于等于60度，但风速大于等于2米/秒时",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"AB"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气温－1.9℃，出现雾，主导能见度400米，《地面观测簿》（例行）纪要栏天气现象应记录()。",
+					"options": [{
+							"label": "PRFG",
+							"value": "A"
+						},
+						{
+							"label": "BCFG",
+							"value": "B"
+						},
+						{
+							"label": "FZFG",
+							"value": "C"
+						},
+						{
+							"label": "MIFG",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "按照天气现象的定义，主导能见度<1000米的现象有()。",
+					"options": [{
+							"label": "雾、吹雪、扬沙",
+							"value": "A"
+						},
+						{
+							"label": "雾、沙暴、尘暴、冻雾",
+							"value": "B"
+						},
+						{
+							"label": "雾、浮尘、霾",
+							"value": "C"
+						},
+						{
+							"label": "雾、雾淞、沙尘暴",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "按照天气现象的定义，主导能见度≥1000米但<10000米的现象有()。",
+					"options": [{
+							"label": "雾、吹雪、扬沙",
+							"value": "A"
+						},
+						{
+							"label": "轻雾、扬沙",
+							"value": "B"
+						},
+						{
+							"label": "雾、浮尘、霾",
+							"value": "C"
+						},
+						{
+							"label": "雾淞、沙暴",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当最大冰雹的最大直径大于（）毫米时，还应说明最大冰雹的重量，以克为单位，取整数。",
+					"options": [{
+							"label": "5",
+							"value": "A"
+						},
+						{
+							"label": "8",
+							"value": "B"
+						},
+						{
+							"label": "10",
+							"value": "C"
+						},
+						{
+							"label": "15",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "主导能见度为30米，在METAR/SPECI中应编报为()。",
+					"options": [{
+							"label": "0030",
+							"value": "A"
+						},
+						{
+							"label": "30",
+							"value": "B"
+						},
+						{
+							"label": "0000",
+							"value": "C"
+						},
+						{
+							"label": "0050",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "SPECIAL报中，风速为()分钟的平均值。",
+					"options": [{
+							"label": "1",
+							"value": "A"
+						},
+						{
+							"label": "2",
+							"value": "B"
+						},
+						{
+							"label": "10",
+							"value": "C"
+						},
+						{
+							"label": "5",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "SPECIAL报中，RVR为()分钟的平均值。",
+					"options": [{
+							"label": "1",
+							"value": "A"
+						},
+						{
+							"label": "2",
+							"value": "B"
+						},
+						{
+							"label": "10",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在METAR/SPECI中，假如平均风向为26度，平均风向应编报为()。",
+					"options": [{
+							"label": "20",
+							"value": "A"
+						},
+						{
+							"label": "020",
+							"value": "B"
+						},
+						{
+							"label": "030",
+							"value": "C"
+						},
+						{
+							"label": "30",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "SPECIAL报中，RVR()编变化趋势。",
+					"options": [{
+							"label": "要",
+							"value": "A"
+						},
+						{
+							"label": "不用",
+							"value": "B"
+						},
+						{
+							"label": "不一定",
+							"value": "C"
+						},
+						{
+							"label": "都不对",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "编发SPECIAL报时，对RVR的编报下列阐述错误的是：()。",
+					"options": [{
+							"label": "只编发正在使用跑道接地地带的RVR值",
+							"value": "A"
+						},
+						{
+							"label": "跑道接地地带的RVR先编发",
+							"value": "B"
+						},
+						{
+							"label": "当使用的跑道有几条时，应报出每条跑道的有效跑道视程值，并注明位置",
+							"value": "C"
+						},
+						{
+							"label": "如果跑道视程是仅在沿跑道某一个位置观测的，在报告中不必注明位置",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "如果气温在0℃以下，在METREPORT和SPECIAL中，应当以“T（）”加气温的绝对值表示。",
+					"options": [{
+							"label": "M",
+							"value": "A"
+						},
+						{
+							"label": "DPMS",
+							"value": "B"
+						},
+						{
+							"label": "—",
+							"value": "C"
+						},
+						{
+							"label": "MS",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时出现雷暴，小阵雨，伴有中等冰雹，现在天气组编为()。",
+					"options": [{
+							"label": "TSRAGR",
+							"value": "A"
+						},
+						{
+							"label": "TSSHGRRA",
+							"value": "B"
+						},
+						{
+							"label": "TSGRRA",
+							"value": "C"
+						},
+						{
+							"label": "TSRAGR",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测前有TS、-SHRA，观测时为TS、SHRA，近时天气组为()。",
+					"options": [{
+							"label": "RETSRA",
+							"value": "A"
+						},
+						{
+							"label": "RETS",
+							"value": "B"
+						},
+						{
+							"label": "RERA",
+							"value": "C"
+						},
+						{
+							"label": "不编",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "飞行气象情报交换办法规定：当发布机场天气报告、机场预报和航路预报的更正报时，应当在公报报头时间组后加注（）字样。",
+					"options": [{
+							"label": "CCA（CCB、CCC……）",
+							"value": "A"
+						},
+						{
+							"label": "COR",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云的记录为：3Ｃu900 1Ｓc1200 4Ａc3000 5Ｃi9000,下列() 组编报正确（ 机场标高800米， 最高的最低飞行扇区高度2000米）。 ",
+					"options": [{
+							"label": "SCT030FEW040CBSCT040BKN300",
+							"value": "A"
+						},
+						{
+							"label": "SCT030BKN040CBKN300",
+							"value": "B"
+						},
+						{
+							"label": "SCT030SCT040FEW040CB",
+							"value": "C"
+						},
+						{
+							"label": "SCT030FEW040CBBKN300",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云的记录为：2Cu9001Sc12001Cb12004Ac40006Ci9000，下列()组编报正确（机场标高800米，最高的最低飞行扇区高度2000米）。",
+					"options": [{
+							"label": "FEW030FEW040CB",
+							"value": "A"
+						},
+						{
+							"label": "FEW030FEW040CSCT130BKN300",
+							"value": "B"
+						},
+						{
+							"label": "FEW030FEW040CBFEW040",
+							"value": "C"
+						},
+						{
+							"label": "FEW030FEW040CBBKN300",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云的记录为：3Cu6004Tcu6001Cb600，下列()组编报正确（机场标高800米，最高的最低飞行扇区高度2000米）。。",
+					"options": [{
+							"label": "SCT020SCT020TCUFEW020CB",
+							"value": "A"
+						},
+						{
+							"label": "BKN020CB",
+							"value": "B"
+						},
+						{
+							"label": "SCT020BKN020CB",
+							"value": "C"
+						},
+						{
+							"label": "OVC020CB",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云的记录为：2Ac2700，下列()组编报正确（机场标高800米，最高的最低飞行扇区高度2000米，主导能见度8000米，有BR）。",
+					"options": [{
+							"label": "FEW083",
+							"value": "A"
+						},
+						{
+							"label": "CAVOK",
+							"value": "B"
+						},
+						{
+							"label": "NSC",
+							"value": "C"
+						},
+						{
+							"label": "SKC",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云的记录为：0Tcu8001Cb1000，下列()组编报正确（机场标高800米，最高的最低飞行扇区高度2000米）。",
+					"options": [{
+							"label": "FEW026TCUFEW033CB",
+							"value": "A"
+						},
+						{
+							"label": "FEW033CB",
+							"value": "B"
+						},
+						{
+							"label": "FEW033TCU",
+							"value": "C"
+						},
+						{
+							"label": "FEW026TCU",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云的记录为：2Cu8003Cb10005Ac27006Ci6000，下列()组编报正确（机场标高800米，最高的最低飞行扇区高度2000米）。",
+					"options": [{
+							"label": "FEW026SCT033CBBKN090BKN200",
+							"value": "A"
+						},
+						{
+							"label": "FEW026SCT033CB",
+							"value": "B"
+						},
+						{
+							"label": "FEW026SCT033CBBKN090",
+							"value": "C"
+						},
+						{
+							"label": "FEW026SCT033CBBKN200",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云的记录为：2Cu8003Sc15005Ac30007Ci7000，下列()组编报正确（机场标高800米，最高的最低飞行扇区高度2600米）。",
+					"options": [{
+							"label": "FEW026SCT060BKN100BKN230",
+							"value": "A"
+						},
+						{
+							"label": "FEW026SCT060BKN100",
+							"value": "B"
+						},
+						{
+							"label": "FEW026SCT060",
+							"value": "C"
+						},
+						{
+							"label": "FEW026SCT050",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云的记录为：1Fn1803Fn3006Fn4008Ns1400，下列()组编报正确（机场标高800米，最高的最低飞行扇区高度2200米）。",
+					"options": [{
+							"label": "FEW006SCT010BKN011OVC046",
+							"value": "A"
+						},
+						{
+							"label": "SCT010BKN013",
+							"value": "B"
+						},
+						{
+							"label": "FEW006SCT010BKN013",
+							"value": "C"
+						},
+						{
+							"label": "FEW006SCT010BKN011",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在METAR/SPECI报中编报浅雾、碎雾、部分雾时，()。",
+					"options": [{
+							"label": "主导能见度不受其影响",
+							"value": "A"
+						},
+						{
+							"label": "主导能见度要受其影响",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时本场有烟和轻雾，主要受烟影响，主导能见度为500米，在METAR/SPECI报文中天气现象编报为()。",
+					"options": [{
+							"label": "FUBR",
+							"value": "A"
+						},
+						{
+							"label": "FU",
+							"value": "B"
+						},
+						{
+							"label": "BRFU",
+							"value": "C"
+						},
+						{
+							"label": "BR",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时本场有轻雾和雷暴，主导能见度为6000米，在METAR/SPECI报文中，天气现象编报为()。",
+					"options": [{
+							"label": "TS",
+							"value": "A"
+						},
+						{
+							"label": "TSBR",
+							"value": "B"
+						},
+						{
+							"label": "BRTS",
+							"value": "C"
+						},
+						{
+							"label": "不编报",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时本场有大阵雨并伴有雷暴，在METAR/SPECI报文中，现在天气现象编报为()。",
+					"options": [{
+							"label": "+TSSHRA",
+							"value": "A"
+						},
+						{
+							"label": "+TSRA",
+							"value": "B"
+						},
+						{
+							"label": "TS+SHRA",
+							"value": "C"
+						},
+						{
+							"label": "TSRA",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时间前本场有大雨，观测时大雨停止，REW′W′编报为()。",
+					"options": [{
+							"label": "RERA",
+							"value": "A"
+						},
+						{
+							"label": "+RERA",
+							"value": "B"
+						},
+						{
+							"label": "编RE+RA",
+							"value": "C"
+						},
+						{
+							"label": "不编",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时间前有大阵雨，观测时中雨，REW′W编报为()。",
+					"options": [{
+							"label": "RESHRA",
+							"value": "A"
+						},
+						{
+							"label": "RERA",
+							"value": "B"
+						},
+						{
+							"label": "+RESHRA",
+							"value": "C"
+						},
+						{
+							"label": "不编REW′W′组",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在METAR/SPECI报中，跑道视程编报正确的是()。",
+					"options": [{
+							"label": "R18/0025D",
+							"value": "A"
+						},
+						{
+							"label": "R36/M0050N",
+							"value": "B"
+						},
+						{
+							"label": "R27/0325U",
+							"value": "C"
+						},
+						{
+							"label": "R9/P1500U",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"BC"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "若某机场观测到主导能见度为6000米、天气现象为BR、云况为7Sc1500米，则云、能见度、天气现象组编报为()。（假设该机场最高的最低飞行扇区高度为1500米，机场标高为35米）。",
+					"options": [{
+							"label": "6000BRBKN050",
+							"value": "A"
+						},
+						{
+							"label": "6000SKC",
+							"value": "B"
+						},
+						{
+							"label": "6000NSC",
+							"value": "C"
+						},
+						{
+							"label": "6000BKN050",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时出现雾，小雨，烟，主导能见度500米主要受烟影响，正确编报为()。",
+					"options": [{
+							"label": "0500FU-RAFG",
+							"value": "A"
+						},
+						{
+							"label": "500-RAFU",
+							"value": "B"
+						},
+						{
+							"label": "0500-RAFG",
+							"value": "C"
+						},
+						{
+							"label": "0500-RAFUFG",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "某时观测主导能见度15000米，无天气现象，天空无云，则云、能见度和天气现象组的正确编码为：。",
+					"options": [{
+							"label": "9999NSC",
+							"value": "A"
+						},
+						{
+							"label": "9999SKC",
+							"value": "B"
+						},
+						{
+							"label": "CAVOK",
+							"value": "C"
+						},
+						{
+							"label": "NSC",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "某整点观测云况为：0Sc800，7Ac4600观测时有-RA，主导能见度6000米，则云组编码为()。（最高的最低飞行扇区高度为2100米，机场标高100米）。",
+					"options": [{
+							"label": "BKN150",
+							"value": "A"
+						},
+						{
+							"label": "BKN153",
+							"value": "B"
+						},
+						{
+							"label": "NSC",
+							"value": "C"
+						},
+						{
+							"label": "BKN160",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "某小时的低云“量、状、高”栏记录为：FZFG80，则云组编码为()。",
+					"options": [{
+							"label": "FZFG80",
+							"value": "A"
+						},
+						{
+							"label": "VV80",
+							"value": "B"
+						},
+						{
+							"label": "VV003",
+							"value": "C"
+						},
+						{
+							"label": "VV002",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "湿球温度表包扎纱布时，需将长约()的新纱布在蒸馏水中浸湿，使上端服贴无绉折地包卷在感应部分上，包卷纱布的重叠部分不要超过球部圆周的1/4。",
+					"options": [{
+							"label": "7cm",
+							"value": "A"
+						},
+						{
+							"label": "10cm",
+							"value": "B"
+						},
+						{
+							"label": "12cm",
+							"value": "C"
+						},
+						{
+							"label": "15cm",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时气温-2.0℃，本场有雾，天空不明，垂直能见度为40米，低云的“量、状、高”栏应记录为()。",
+					"options": [{
+							"label": "FZFG40",
+							"value": "A"
+						},
+						{
+							"label": "VV40",
+							"value": "B"
+						},
+						{
+							"label": "///",
+							"value": "C"
+						},
+						{
+							"label": "VV///",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在SPECIAL报告中，云的要素名称、没有重要云、天空不明和垂直能见度分别用简语CLD、()、OBSC和VERVIS表示。",
+					"options": [{
+							"label": "SKC",
+							"value": "A"
+						},
+						{
+							"label": "CAVOK",
+							"value": "B"
+						},
+						{
+							"label": "NSC",
+							"value": "C"
+						},
+						{
+							"label": "NCD",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "SH，用于报告阵性的雨、雪、冰雹、小冰雹或()，或它们的组合。",
+					"options": [{
+							"label": "毛毛雨",
+							"value": "A"
+						},
+						{
+							"label": "冻雨",
+							"value": "B"
+						},
+						{
+							"label": "霰",
+							"value": "C"
+						},
+						{
+							"label": "冰丸",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "层状云包括()、高层云和卷层云。",
+					"options": [{
+							"label": "雨层云",
+							"value": "A"
+						},
+						{
+							"label": "碎层云",
+							"value": "B"
+						},
+						{
+							"label": "层云",
+							"value": "C"
+						},
+						{
+							"label": "层积云",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "一旬中，某时记录缺测()次或以下时，按实有记录作旬统计。",
+					"options": [{
+							"label": "1",
+							"value": "A"
+						},
+						{
+							"label": "2",
+							"value": "B"
+						},
+						{
+							"label": "3",
+							"value": "C"
+						},
+						{
+							"label": "4",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "一月中，某时记录缺测()次或以下时，该时按实有记录作月统计，日合计、日平均栏的月合计、月平均值按()统计。",
+					"options": [{
+							"label": "6横行",
+							"value": "A"
+						},
+						{
+							"label": "6竖行",
+							"value": "B"
+						},
+						{
+							"label": "7横行",
+							"value": "C"
+						},
+						{
+							"label": "7竖行",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "一月中，某时记录缺测()或以上时，该时不作月统计。",
+					"options": [{
+							"label": "5次",
+							"value": "A"
+						},
+						{
+							"label": "6次",
+							"value": "B"
+						},
+						{
+							"label": "7次",
+							"value": "C"
+						},
+						{
+							"label": "8次",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "不作月统计的月份≥1个月，则年合计、年平均栏均记()。",
+					"options": [{
+							"label": "空白",
+							"value": "A"
+						},
+						{
+							"label": "/",
+							"value": "B"
+						},
+						{
+							"label": "—",
+							"value": "C"
+						},
+						{
+							"label": "现有平均",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "一月中，各定时风向风速缺测（）次或以下时，月、年各风向平均风速均按各定时实有风速合计和出现回数统计。",
+					"options": [{
+							"label": "7",
+							"value": "A"
+						},
+						{
+							"label": "8",
+							"value": "B"
+						},
+						{
+							"label": "9",
+							"value": "C"
+						},
+						{
+							"label": "10",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "一月中，各定时风向风速缺测（）次或以下时，月、年各风向平均风速均按各定时实有风速合计和出现回数统计。",
+					"options": [{
+							"label": "烟尘",
+							"value": "A"
+						},
+						{
+							"label": "雾霾",
+							"value": "B"
+						},
+						{
+							"label": "雨雪",
+							"value": "C"
+						},
+						{
+							"label": "风沙",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "SPECIAL报中RVR为观测前()时段的平均值。",
+					"options": [{
+							"label": "1分钟",
+							"value": "A"
+						},
+						{
+							"label": "2分钟",
+							"value": "B"
+						},
+						{
+							"label": "5分钟",
+							"value": "C"
+						},
+						{
+							"label": "10分钟",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在月光暗淡或无月光的夜晚能见度观测需要结合（）进行判断。",
+					"options": [{
+							"label": "天气现象",
+							"value": "A"
+						},
+						{
+							"label": "湿度",
+							"value": "B"
+						},
+						{
+							"label": "云",
+							"value": "C"
+						},
+						{
+							"label": "温度",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AB"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列不符合Cc的特征是（）。",
+					"options": [{
+							"label": "与Cs之间有明显的联系",
+							"value": "A"
+						},
+						{
+							"label": "有冰晶云的特征",
+							"value": "B"
+						},
+						{
+							"label": "Cc的云块很小且很明亮",
+							"value": "C"
+						},
+						{
+							"label": "与As间有明显联系",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "最高温度表的感应液体是（）。",
+					"options": [{
+							"label": "酒精",
+							"value": "A"
+						},
+						{
+							"label": "水银",
+							"value": "B"
+						},
+						{
+							"label": "蒸馏水",
+							"value": "C"
+						},
+						{
+							"label": "重水",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "Ns的云底通常在（）米以下。",
+					"options": [{
+							"label": "1200",
+							"value": "A"
+						},
+						{
+							"label": "2000",
+							"value": "B"
+						},
+						{
+							"label": "900",
+							"value": "C"
+						},
+						{
+							"label": "1000",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "北京时间8月1日0时，问某地(110°E、27°N)的地方时间是（）。",
+					"options": [{
+							"label": "7月31日23时20分",
+							"value": "A"
+						},
+						{
+							"label": "8月1日0时20分",
+							"value": "B"
+						},
+						{
+							"label": "7月31日23时40分",
+							"value": "C"
+						},
+						{
+							"label": "8月1日0时40分",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "有Cs云时经常会出现（）。",
+					"options": [{
+							"label": "华",
+							"value": "A"
+						},
+						{
+							"label": "虹",
+							"value": "B"
+						},
+						{
+							"label": "晕",
+							"value": "C"
+						},
+						{
+							"label": "霓",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "一次降雹时间跨日界，最大直径和最大重量如何记录（）。",
+					"options": [{
+							"label": "前一天测得的记入前一天，在第二天测得的记入第二天，需重复记录",
+							"value": "A"
+						},
+						{
+							"label": "前一天测得的记入前一天，在第二天测得的记入第二天，不重复记录",
+							"value": "B"
+						},
+						{
+							"label": "无论何时测得都计入第一天",
+							"value": "C"
+						},
+						{
+							"label": "无论何时测得都计入第二天",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "大气透射仪是通过（）来确定能见距离。",
+					"options": [{
+							"label": "离散系数",
+							"value": "A"
+						},
+						{
+							"label": "透射系数",
+							"value": "B"
+						},
+						{
+							"label": "光反照率",
+							"value": "C"
+						},
+						{
+							"label": "散射特性",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "仪器测量能见度，白天使用（）定律。",
+					"options": [{
+							"label": "阿拉德",
+							"value": "A"
+						},
+						{
+							"label": "阿托斯",
+							"value": "B"
+						},
+						{
+							"label": "柯西米德",
+							"value": "C"
+						},
+						{
+							"label": "阿基米德",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "正点指的是（）。",
+					"options": [{
+							"label": "观测时间的半点和整点",
+							"value": "A"
+						},
+						{
+							"label": "观测时间的半点",
+							"value": "B"
+						},
+						{
+							"label": "观测时间的整点",
+							"value": "C"
+						},
+						{
+							"label": "观测时间的标准时刻",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "需要在特定基线上测量的是（）。",
+					"options": [{
+							"label": "大气透射仪",
+							"value": "A"
+						},
+						{
+							"label": "大气透射仪",
+							"value": "B"
+						},
+						{
+							"label": "前向散射仪",
+							"value": "C"
+						},
+						{
+							"label": "气压仪",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "障碍物对地面气象观测的影响有（）。",
+					"options": [{
+							"label": "探测资料代表性",
+							"value": "A"
+						},
+						{
+							"label": "探测资料准确性",
+							"value": "B"
+						},
+						{
+							"label": "观测场气流畅通",
+							"value": "C"
+						},
+						{
+							"label": "观测时效性",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABC"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "成排障碍物的定义要求观测场围栏距障碍物最近点，向障碍物方向看去，单个物体或两个单个物体的横向要距离小于或等于（）米。",
+					"options": [{
+							"label": "20",
+							"value": "A"
+						},
+						{
+							"label": "30",
+							"value": "B"
+						},
+						{
+							"label": "40",
+							"value": "C"
+						},
+						{
+							"label": "50",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象台应当在目标物选定后，以（）为中心，分别测定其方位以及它们与观测点之间的距离。",
+					"options": [{
+							"label": "观测场",
+							"value": "A"
+						},
+						{
+							"label": "基准观测点",
+							"value": "B"
+						},
+						{
+							"label": "观测平台",
+							"value": "C"
+						},
+						{
+							"label": "观测点",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "大型水体包括（）。",
+					"options": [{
+							"label": "水库",
+							"value": "A"
+						},
+						{
+							"label": "湖泊",
+							"value": "B"
+						},
+						{
+							"label": "河",
+							"value": "C"
+						},
+						{
+							"label": "海",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABCD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象观测记录“代表性”要反应（）。",
+					"options": [{
+							"label": "测点的气象状况",
+							"value": "A"
+						},
+						{
+							"label": "区域内的平均状况",
+							"value": "B"
+						},
+						{
+							"label": "测点周围一定范围内的平均气象状况",
+							"value": "C"
+						},
+						{
+							"label": "每日的平均概况",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AC"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象观测记录“准确性”指()。",
+					"options": [{
+							"label": "要真实地反映实际气象状况",
+							"value": "A"
+						},
+						{
+							"label": "要与观测记录簿一致",
+							"value": "B"
+						},
+						{
+							"label": "要与预报结果契合",
+							"value": "C"
+						},
+						{
+							"label": "以上都对",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象观测记录“比较性”指()。",
+					"options": [{
+							"label": "不同地方的地面气象观测站在同一时间观测的同一气象要素值能进行比较",
+							"value": "A"
+						},
+						{
+							"label": "同一个气象站在不同时间观测的同一气象要素值能进行比较",
+							"value": "B"
+						},
+						{
+							"label": "不同一个气象站在不同时间观测的同一气象要素值能进行比较",
+							"value": "C"
+						},
+						{
+							"label": "同地方的地面气象观测站在同一时间观测的同一气象要素值能进行比较",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AB"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "机场气象台应当在目标物的方位和距离测定后，将其名称、方位、距离、测定年月和测定方法，登记在（）上。",
+					"options": [{
+							"label": "地面观测簿",
+							"value": "A"
+						},
+						{
+							"label": "值班日志",
+							"value": "B"
+						},
+						{
+							"label": "民用航空气象地面观测档案簿",
+							"value": "C"
+						},
+						{
+							"label": "目标物分布图",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云是由水的凝结物或冻结物构成的（）现象。",
+					"options": [{
+							"label": "物理",
+							"value": "A"
+						},
+						{
+							"label": "化学",
+							"value": "B"
+						},
+						{
+							"label": "连续",
+							"value": "C"
+						},
+						{
+							"label": "尺度",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象能见度指正常视力的人，在当时天气条件下，白天能从天空背景中看到或辨认出大小适度的黑色目标物的（）。",
+					"options": [{
+							"label": "平均水平距离",
+							"value": "A"
+						},
+						{
+							"label": "最大水平距离",
+							"value": "B"
+						},
+						{
+							"label": "平均最大水平距离",
+							"value": "C"
+						},
+						{
+							"label": "平均最大距离",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "空能见度指下面的较大者：（1）当在明亮的背景下观测时，能够看到和辨认出位于近地面的一定范围内的黑色目标物的最大距离；（2）在无光的背景下，能够看到和辨认出（）左右的灯光的最大距离。上述定义中，在给定的大气消光系数下，两个距离具有不同的值，后者随背景亮度而变化，前者用MOR来表示。",
+					"options": [{
+							"label": "800cd",
+							"value": "A"
+						},
+						{
+							"label": "1000cd",
+							"value": "B"
+						},
+						{
+							"label": "1200cd",
+							"value": "C"
+						},
+						{
+							"label": "1500cd",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "垂直能见度指垂直方向上的（）。",
+					"options": [{
+							"label": "最大能见距离",
+							"value": "A"
+						},
+						{
+							"label": "平均能见距离",
+							"value": "B"
+						},
+						{
+							"label": "平均最大能见距离",
+							"value": "C"
+						},
+						{
+							"label": "最小能见距离",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气压是指()。",
+					"options": [{
+							"label": "大气压强的简称",
+							"value": "A"
+						},
+						{
+							"label": "其数值等于单位面积上所承受的大气柱的重量",
+							"value": "B"
+						},
+						{
+							"label": "单位为百帕（hPa）",
+							"value": "C"
+						},
+						{
+							"label": "气压梯度的简称",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABC"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "以下对气温的描述正确的是()。",
+					"options": [{
+							"label": "表示空气冷热程度的物理量",
+							"value": "A"
+						},
+						{
+							"label": "单位为摄氏度（℃）",
+							"value": "B"
+						},
+						{
+							"label": "人体感知的温度",
+							"value": "C"
+						},
+						{
+							"label": "单位也可为华氏",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "以下对对湿度描述正确的是()。",
+					"options": [{
+							"label": "表示空气中水汽含量多少的物理量",
+							"value": "A"
+						},
+						{
+							"label": "空气潮湿程度",
+							"value": "B"
+						},
+						{
+							"label": "水的重量",
+							"value": "C"
+						},
+						{
+							"label": "数值等于比湿值",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AB"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在纪要栏用文字或者简语记录风切变、颠簸和积冰时，应当说明所在（）。",
+					"options": [{
+							"label": "位置",
+							"value": "A"
+						},
+						{
+							"label": "高度",
+							"value": "B"
+						},
+						{
+							"label": "测得的时间",
+							"value": "C"
+						},
+						{
+							"label": "测量的手段或方法",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABCD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "以下对风向的描述正确的是()。",
+					"options": [{
+							"label": "指风的来向",
+							"value": "A"
+						},
+						{
+							"label": "以度(°)为单位",
+							"value": "B"
+						},
+						{
+							"label": "指风的去向",
+							"value": "C"
+						},
+						{
+							"label": "以m/s为单位",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AB"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "描述词SH用于表示阵性类型的降水。当与简语（）结合编报时，降水的类型和强度不需说明。",
+					"options": [{
+							"label": "FZ",
+							"value": "A"
+						},
+						{
+							"label": "VC",
+							"value": "B"
+						},
+						{
+							"label": "TS",
+							"value": "C"
+						},
+						{
+							"label": "FG",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列情况应当及时测量积雪深度：()。",
+					"options": [{
+							"label": "当日最后一次观测降雪仍未停止时",
+							"value": "A"
+						},
+						{
+							"label": "值班期间降雪停止后（应当立即进行观测）",
+							"value": "B"
+						},
+						{
+							"label": "有积雪无降雪期间，每日00时",
+							"value": "C"
+						},
+						{
+							"label": "有关用户临时需要了解积雪深度时",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABCD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "伪造的定义是（）。",
+					"options": [{
+							"label": "指根本没有进行观测，凭空捏造的记录或电报",
+							"value": "A"
+						},
+						{
+							"label": "是允许的",
+							"value": "B"
+						},
+						{
+							"label": "为配合预报的数值",
+							"value": "C"
+						},
+						{
+							"label": "以上都对",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "涂改的定义是()。",
+					"options": [{
+							"label": "指为掩盖错情而将观测记录、报文进行涂改，致使记录失真",
+							"value": "A"
+						},
+						{
+							"label": "是民航记录允许的",
+							"value": "B"
+						},
+						{
+							"label": "符合规范的",
+							"value": "C"
+						},
+						{
+							"label": "防止错误发生",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "早测是指（）。",
+					"options": [{
+							"label": "指不按规定时间，提前进行观测",
+							"value": "A"
+						},
+						{
+							"label": "符合民航观测规范",
+							"value": "B"
+						},
+						{
+							"label": "是观测时段内进行的观测",
+							"value": "C"
+						},
+						{
+							"label": "以上都对",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "迟测是指（）。",
+					"options": [{
+							"label": "指全部项目在规定时间内（整点后30分钟或半点后15分钟）进行补测",
+							"value": "A"
+						},
+						{
+							"label": "指全部项目在规定时间内（整、半点后30分钟）进行补测",
+							"value": "B"
+						},
+						{
+							"label": "指全部项目在规定时间内（整、半点后15分钟）进行补测",
+							"value": "C"
+						},
+						{
+							"label": "指全部项目在规定时间内（整点后50分钟、半点后30分钟）进行补测",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "缺测是指（）。",
+					"options": [{
+							"label": "指某次观测的全部或部分气象要素未进行观测并在整（半）点后30分钟后未进行补测",
+							"value": "A"
+						},
+						{
+							"label": "指某次观测的全部或部分气象要素未进行观测并在整点后30分钟或半点后15分钟内未进行补测",
+							"value": "B"
+						},
+						{
+							"label": "指某次观测的全部或部分气象要素未进行观测并在整（半）点后15分钟内未进行补测",
+							"value": "C"
+						},
+						{
+							"label": "指某次观测的全部或部分气象要素未进行观测并在下次观测之前未进行补测",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "干、湿球温度表读数时应注意必须保持视线和（）齐平，以避免视差。",
+					"options": [{
+							"label": "温度表刻度",
+							"value": "A"
+						},
+						{
+							"label": "温度表标线",
+							"value": "B"
+						},
+						{
+							"label": "水银柱顶端",
+							"value": "C"
+						},
+						{
+							"label": "水银柱底端",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当湿球温度表纱布结冰时，应将湿球纱布下端扎紧，并在球部以下（）毫米处剪断。",
+					"options": [{
+							"label": "2-3",
+							"value": "A"
+						},
+						{
+							"label": "4-5",
+							"value": "B"
+						},
+						{
+							"label": "6-7",
+							"value": "C"
+						},
+						{
+							"label": "8-9",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "进行最高温度表的调整时用手握住表身，感应部分向下，臂向外伸出约（）。",
+					"options": [{
+							"label": "20°",
+							"value": "A"
+						},
+						{
+							"label": "30°",
+							"value": "B"
+						},
+						{
+							"label": "40°",
+							"value": "C"
+						},
+						{
+							"label": "50°",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "最低温度表的感应液体是（）。",
+					"options": [{
+							"label": "蒸馏水",
+							"value": "A"
+						},
+						{
+							"label": "水银",
+							"value": "B"
+						},
+						{
+							"label": "酒精",
+							"value": "C"
+						},
+						{
+							"label": "重水",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "以下哪些不属于事故观测的观测项目（）。",
+					"options": [{
+							"label": "RVR",
+							"value": "A"
+						},
+						{
+							"label": "MOR",
+							"value": "B"
+						},
+						{
+							"label": "云",
+							"value": "C"
+						},
+						{
+							"label": "最高气温",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "层云和碎层云出现在同一高度上，云状记录为（）。",
+					"options": [{
+							"label": "StFs",
+							"value": "A"
+						},
+						{
+							"label": "St",
+							"value": "B"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "“AUTO”标识的METAR,若探测不到天气现象则以（） 代替。 ",
+					"options": [{
+							"label": "/",
+							"value": "A"
+						},
+						{
+							"label": "//",
+							"value": "B"
+						},
+						{
+							"label": "///",
+							"value": "C"
+						},
+						{
+							"label": "////",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在METAR/SPECI中，什么情况下风向组必须编报VRB?（）。",
+					"options": [{
+							"label": "当60°≤风向变化＜180°，平均风速＜2米/秒时",
+							"value": "A"
+						},
+						{
+							"label": "风向变化小于60°，平均风速小于2米/秒时",
+							"value": "B"
+						},
+						{
+							"label": "当风向变化≥180°",
+							"value": "C"
+						},
+						{
+							"label": "风向变化小于60°，平均风速大于等于2米/秒时",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AC"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当主导能见度或正在使用跑道接地地带的RVR值小于1500米时，怎样报告RVR（）。",
+					"options": [{
+							"label": "在METAR/SPECI中，应当报告正在使用的跑道接地地带的RVR",
+							"value": "A"
+						},
+						{
+							"label": "在METREPORT/SPECIAL中，应当报告正在使用的跑道接地地带的RVR",
+							"value": "B"
+						},
+						{
+							"label": "在METAR/SPECI中，应当报告正在使用的跑道接地地带的RVR，若中间地带和停止端配置了RVR测量设备，还应当报告中间地带和停止端的RVR。当使用的跑道不止一条时，应当分别报告不同跑道和位置的RVR",
+							"value": "C"
+						},
+						{
+							"label": "在METREPORT/SPECIAL中，应当报告正在使用的跑道接地地带的RVR，若中间地带和停止端配置了RVR测量设备，还应当报告中间地带和停止端的RVR。当使用的跑道不止一条时，应当分别报告不同跑道和位置的RVR",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "只对下列（）天气现象报告强度。",
+					"options": [{
+							"label": "降水（阵性降水）",
+							"value": "A"
+						},
+						{
+							"label": "冰针",
+							"value": "B"
+						},
+						{
+							"label": "雷暴",
+							"value": "C"
+						},
+						{
+							"label": "尘暴或沙暴（仅中等强度以上）",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列（）情况下才可编报SQ。",
+					"options": [{
+							"label": "当观测到的瞬间风速急剧增大至少5米/秒，瞬间风速达到11米/秒或以上，并且至少维持一分钟时才可编报SQ",
+							"value": "A"
+						},
+						{
+							"label": "当观测到的瞬间风速急剧增大至少8米/秒，瞬间风速达到13米/秒或以上，并且至少维持一分钟时才可编报SQ",
+							"value": "B"
+						},
+						{
+							"label": "当观测到的瞬间风速急剧增大至少8米/秒，瞬间风速达到11米/秒或以上，并且至少维持一分钟时才可编报SQ",
+							"value": "C"
+						},
+						{
+							"label": "当观测到的瞬间风速急剧增大至少5米/秒，瞬间风速达到13米/秒或以上，并且至少维持一分钟时才可编报SQ",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在METAR和SPECI报告中，VC可与哪些天气现象结合使用（）。",
+					"options": [{
+							"label": "雷暴、阵性降水、高吹尘、高吹沙、高吹雪、沙暴、尘暴、沙（尘）旋风、漏斗云和火山灰",
+							"value": "A"
+						},
+						{
+							"label": "雷暴、阵性降水、雾、高吹尘、高吹沙、高吹雪、沙暴、尘暴、沙（尘）旋风、漏斗云和火山灰",
+							"value": "B"
+						},
+						{
+							"label": "雷暴、阵性降水、冻雨、高吹尘、高吹沙、高吹雪、沙暴、尘暴、沙（尘）旋风、漏斗云和火山灰",
+							"value": "C"
+						},
+						{
+							"label": "雷暴、阵性降水、雾、高吹尘、高吹沙、高吹雪、沙暴、龙卷、沙（尘）旋风、漏斗云和火山灰",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "电码格式的机场天气报告中，哪些气象要素采用基准观测点的数据（）。",
+					"options": [{
+							"label": "云、能见度、跑道视程、天气现象",
+							"value": "A"
+						},
+						{
+							"label": "云、能见度、气象光学视程、跑道视程、天气现象",
+							"value": "B"
+						},
+						{
+							"label": "地面风、气温、露点、湿度、气压",
+							"value": "C"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列描述正确的是（）。",
+					"options": [{
+							"label": "用于METREPORT和SPECIAL以及空中交通服务部门的RVR应当为3分钟的平均值",
+							"value": "A"
+						},
+						{
+							"label": "用于METREPORT和SPECIAL以及空中交通服务部门的RVR应当为2分钟平均值",
+							"value": "B"
+						},
+						{
+							"label": "用于METREPORT和SPECIAL以及空中交通服务部门的RVR应当为1分钟平均值",
+							"value": "C"
+						},
+						{
+							"label": "用于METREPORT和SPECIAL以及空中交通服务部门的RVR应当为5分钟平均值",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列描述正确的是（）。",
+					"options": [{
+							"label": "用于METAR和SPECI时RVR应当为5分钟的平均值",
+							"value": "A"
+						},
+						{
+							"label": "用于METAR和SPECI时RVR应当为3分钟的平均值",
+							"value": "B"
+						},
+						{
+							"label": "用于METAR和SPECI时RVR应当为10分钟的平均值",
+							"value": "C"
+						},
+						{
+							"label": "用于METAR和SPECI时RVR应当为15分钟的平均值",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "机场标高的定义是机场跑道（）距离平均海平面（Meansealevel）的垂直距离。",
+					"options": [{
+							"label": "着陆地区最低点",
+							"value": "A"
+						},
+						{
+							"label": "爬升地区最高点",
+							"value": "B"
+						},
+						{
+							"label": "进近地区最高点",
+							"value": "C"
+						},
+						{
+							"label": "着陆地区最高点",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "“对飞行有重要影响的云”是指（）。",
+					"options": [{
+							"label": "云底高度在1000米或最高的最低飞行扇区高度（两者取其大）以下的云，或任何高度的积雨云或浓积云",
+							"value": "A"
+						},
+						{
+							"label": "云底高度在2500米或最高的最低飞行扇区高度（两者取其大）以下的云，或任何高度的积雨云或浓积云",
+							"value": "B"
+						},
+						{
+							"label": "云底高度在1500米或最高的最低飞行扇区高度（两者取其小）以下的云，或任何高度的积雨云或浓积云",
+							"value": "C"
+						},
+						{
+							"label": "云底高度在1500米或最高的最低飞行扇区高度（两者取其大）以下的云，或任何高度的积雨云或浓积云",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "民用航空气象地面观测的定义是（）。",
+					"options": [{
+							"label": "对本站及视区，尤其是进近着陆地带及起飞爬升区域的气象状况及其变化过程进行系统、连续地观察和测量",
+							"value": "A"
+						},
+						{
+							"label": "对本站及视区，尤其是机场跑道和进近着陆地带的气象状况及其变化过程进行系统、连续地观察和测量",
+							"value": "B"
+						},
+						{
+							"label": "对本站及视区，尤其是机场跑道和进近着陆地带及起飞爬升区域的气象状况及其变化过程进行系统、连续地观察和测量",
+							"value": "C"
+						},
+						{
+							"label": "对本站及视区，尤其是机场跑道和起飞爬升区域的气象状况及其变化过程进行系统、连续地观察和测量",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "例行观测是指（）。",
+					"options": [{
+							"label": "按指定的时间、次数、项目和固定时间间隔对有关气象要素进行的目测",
+							"value": "A"
+						},
+						{
+							"label": "按指定的时间、次数、项目和固定时间间隔对有关气象要素进行的仪器探测",
+							"value": "B"
+						},
+						{
+							"label": "按指定的时间、次数、项目和不固定时间间隔对有关气象要素进行的观测",
+							"value": "C"
+						},
+						{
+							"label": "按指定的时间、次数、项目和固定时间间隔对有关气象要素进行的观测",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测平台的定义是（）。",
+					"options": [{
+							"label": "气象观测人员进行目测的固定场所",
+							"value": "A"
+						},
+						{
+							"label": "气象观测人员进行器测的固定场所",
+							"value": "B"
+						},
+						{
+							"label": "气象观测人员进行目测和器测的固定场所",
+							"value": "C"
+						},
+						{
+							"label": "以上都不对",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象观测值班室的定义是（）。",
+					"options": [{
+							"label": "应当具备观测员完成室内工作任务的条件",
+							"value": "A"
+						},
+						{
+							"label": "观测人员的室内工作场所",
+							"value": "B"
+						},
+						{
+							"label": "气象设备人员对气象观测系统的监控室",
+							"value": "C"
+						},
+						{
+							"label": "以上都对",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AB"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气象要素是指表明（）的各项要素。",
+					"options": [{
+							"label": "大气物理状态",
+							"value": "A"
+						},
+						{
+							"label": "大气物理现象",
+							"value": "B"
+						},
+						{
+							"label": "天气现象的基本面",
+							"value": "C"
+						},
+						{
+							"label": "以上都对",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AB"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "AUTO组应插在电文什么地方（）。",
+					"options": [{
+							"label": "四字地名代码组后，观测时间组前",
+							"value": "A"
+						},
+						{
+							"label": "四字地名代码组前",
+							"value": "B"
+						},
+						{
+							"label": "观测时间组后，风组前",
+							"value": "C"
+						},
+						{
+							"label": "云组后",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当在机场附近观测到大阵雨时要编报为（）。",
+					"options": [{
+							"label": "VCSH",
+							"value": "A"
+						},
+						{
+							"label": "+VCSH",
+							"value": "B"
+						},
+						{
+							"label": "RESH",
+							"value": "C"
+						},
+						{
+							"label": "+RESH",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "描述词FZ不能修饰（）。",
+					"options": [{
+							"label": "FG",
+							"value": "A"
+						},
+						{
+							"label": "RA",
+							"value": "B"
+						},
+						{
+							"label": "BR",
+							"value": "C"
+						},
+						{
+							"label": "DZ",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "哪些天气现象在能见度降低到5000米或以下时必须编报（）。",
+					"options": [{
+							"label": "IC",
+							"value": "A"
+						},
+						{
+							"label": "TS",
+							"value": "B"
+						},
+						{
+							"label": "HZ",
+							"value": "C"
+						},
+						{
+							"label": "FU",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ACD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "不能修饰FG的描述词有（）。",
+					"options": [{
+							"label": "MI",
+							"value": "A"
+						},
+						{
+							"label": "RE",
+							"value": "B"
+						},
+						{
+							"label": "VC",
+							"value": "C"
+						},
+						{
+							"label": "BC",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "编报MIFG时，下列哪种规定正确（）。",
+					"options": [{
+							"label": "使用MIFG编报时，距地面3米以上的能见度应≥1000米，而雾层中的能见度应＜1000米",
+							"value": "A"
+						},
+						{
+							"label": "使用MIFG编报时，距地面1米以上的能见度应≥1000米，而雾层中的能见度应＜1000米",
+							"value": "B"
+						},
+						{
+							"label": "使用MIFG编报时，距地面5米以上的能见度应≥1000米，而雾层中的能见度应＜1000米",
+							"value": "C"
+						},
+						{
+							"label": "使用MIFG编报时，距地面2米以上的能见度应≥1000米，而雾层中的能见度应＜1000米",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当机场附近出现浅雾或碎雾时，（）。",
+					"options": [{
+							"label": "一律编报FG",
+							"value": "A"
+						},
+						{
+							"label": "可编报VCFG，也可不编报",
+							"value": "B"
+						},
+						{
+							"label": "不能编报VCFG",
+							"value": "C"
+						},
+						{
+							"label": "一律编报VCFG1",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列说法正确的是（）。",
+					"options": [{
+							"label": "简语FEW代表1个云量和不到1个量的强对流云；SCT代表2～4个云量；BKN代表5～7个云量；OVC代表8个云量",
+							"value": "A"
+						},
+						{
+							"label": "简语FEW代表1～3个云量和不到1个量的强对流云；SCT代表4～5个云量；BKN代表6～7个云量；OVC代表8个云量",
+							"value": "B"
+						},
+						{
+							"label": "简语FEW代表1～2个云量和不到1个量的强对流云；SCT代表3～5个云量；BKN代表6～7个云量；OVC代表8个云量",
+							"value": "C"
+						},
+						{
+							"label": "简语FEW代表1～2个云量和不到1个量的强对流云；SCT代表3～4个云量；BKN代表5～7个云量；OVC代表8个云量",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "如果编报了NSC，当观测到FG、SS、BR、HZ、SA等天气现象时，垂直能见度（）。",
+					"options": [{
+							"label": "须编报",
+							"value": "A"
+						},
+						{
+							"label": "不编报",
+							"value": "B"
+						},
+						{
+							"label": "视情况而定",
+							"value": "C"
+						},
+						{
+							"label": "须看能见度",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云组应按（）次序编报。",
+					"options": [{
+							"label": "应按云底高度从高到低的次序编报",
+							"value": "A"
+						},
+						{
+							"label": "应按云顶高度从低到高的次序编报",
+							"value": "B"
+						},
+						{
+							"label": "应按云底高度从低到高的次序编报",
+							"value": "C"
+						},
+						{
+							"label": "应按云顶高度从高到低的次序编报",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "云高和垂直能见度应当以（）为增量等级编报。",
+					"options": [{
+							"label": "以30米为增量等级编报，凡不符合所用编报规定的观测值，应向上取最接近的增量等级数值编报",
+							"value": "A"
+						},
+						{
+							"label": "当云高≤3000m时，以100m为增量等级报告",
+							"value": "B"
+						},
+						{
+							"label": "当云高≤3000m时，以30m为增量等级报告",
+							"value": "C"
+						},
+						{
+							"label": "以30米为增量等级编报，凡不符合所用编报规定的观测值，应向下取最接近的增量等级数值编报",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "同时符合哪些条件时应当编报CAVOK（）。",
+					"options": [{
+							"label": "主导能见度≥10千米",
+							"value": "A"
+						},
+						{
+							"label": "没有对飞行有重要影响的云",
+							"value": "B"
+						},
+						{
+							"label": "无4678电码表中的重要天气现象",
+							"value": "C"
+						},
+						{
+							"label": "微风或静风时",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABC"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当气温为＋0.5、－0.5、－0.7时，在电码格式报告中分别编报（）。",
+					"options": [{
+							"label": "01；00；M01",
+							"value": "A"
+						},
+						{
+							"label": "1；M1；M1",
+							"value": "B"
+						},
+						{
+							"label": "01；M00；M01",
+							"value": "C"
+						},
+						{
+							"label": "1；M0；M1",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列哪些天气现象需要编报REW’W’组（）。",
+					"options": [{
+							"label": "冻降水，中或大的降水（含阵性降水）",
+							"value": "A"
+						},
+						{
+							"label": "中或大的沙暴或尘暴",
+							"value": "B"
+						},
+						{
+							"label": "高吹雪，雷暴",
+							"value": "C"
+						},
+						{
+							"label": "龙卷云（陆龙卷或水龙卷），火山灰",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABCD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当主导能见度≥10千米，天空无云且无4678电码表中规定的重要天气现象时，相关组应编报（）。",
+					"options": [{
+							"label": "CAVOK",
+							"value": "A"
+						},
+						{
+							"label": "9999NSC",
+							"value": "B"
+						},
+						{
+							"label": "9999SKC",
+							"value": "C"
+						},
+						{
+							"label": "9999NSW",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时间前有大雨，观测时大雨停止，近时天气组应编报（）。",
+					"options": [{
+							"label": "RESHRA",
+							"value": "A"
+						},
+						{
+							"label": "RERA",
+							"value": "B"
+						},
+						{
+							"label": "+RESHRA",
+							"value": "C"
+						},
+						{
+							"label": "不编",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时间前有大阵雨，观测时变为中雨，近时天气组应编报（）。",
+					"options": [{
+							"label": "RESHRA",
+							"value": "A"
+						},
+						{
+							"label": "RERA",
+							"value": "B"
+						},
+						{
+							"label": "+RESHRA",
+							"value": "C"
+						},
+						{
+							"label": "不编",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时间前有大阵雨，观测时变为中雨，近时天气组应编报（）。",
+					"options": [{
+							"label": "RESHRA",
+							"value": "A"
+						},
+						{
+							"label": "RERA",
+							"value": "B"
+						},
+						{
+							"label": "+RESHRA",
+							"value": "C"
+						},
+						{
+							"label": "不编",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时间前有大的雷阵雨，观测时雨和雷暴全部停止，近时天气组应编报（）。",
+					"options": [{
+							"label": "RESHRA",
+							"value": "A"
+						},
+						{
+							"label": "RERA",
+							"value": "B"
+						},
+						{
+							"label": "RETS+RERA",
+							"value": "C"
+						},
+						{
+							"label": "+RETSRA",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时主导能见度为5500米，有轻雾，能见度和天气现象应编为（）。",
+					"options": [{
+							"label": "5500",
+							"value": "A"
+						},
+						{
+							"label": "5500BR",
+							"value": "B"
+						},
+						{
+							"label": "5000",
+							"value": "C"
+						},
+						{
+							"label": "5000BR",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "机场周围8千米-16千米有大阵雪，但机场内没有，明语报中天气现象应编为（）。",
+					"options": [{
+							"label": "VCSH",
+							"value": "A"
+						},
+						{
+							"label": "+VCSH",
+							"value": "B"
+						},
+						{
+							"label": "VICINITYSEVSHRA",
+							"value": "C"
+						},
+						{
+							"label": "不编",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当沿起飞航道或进近航道方向，在航空作业有影响的一条跑道面至（）之间确实存在风切变现象时，才必须用WSRWYDRDR编报风切变情报。",
+					"options": [{
+							"label": "500米",
+							"value": "A"
+						},
+						{
+							"label": "500米（含）",
+							"value": "B"
+						},
+						{
+							"label": "600米",
+							"value": "C"
+						},
+						{
+							"label": "600米（含",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当某一云层系由云底相同的积雨云和浓积云组时，云组如何编报（）。",
+					"options": [{
+							"label": "云状只编报Cb，云量按积雨云和浓积云的总和编报",
+							"value": "A"
+						},
+						{
+							"label": "分别编报Cb与Tcu",
+							"value": "B"
+						},
+						{
+							"label": "云状只编报Cb和Tcu，云量按积雨云和浓积云的总和编报",
+							"value": "C"
+						},
+						{
+							"label": "云状只编报Tcu，云量按积雨云和浓积云的总和编报",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "有自动观测设备的机场，在METAR报中，（）分钟的观测时间内，如果最大瞬间风速比平均风速≥5m/s时须编报阵风。",
+					"options": [{
+							"label": "2",
+							"value": "A"
+						},
+						{
+							"label": "5",
+							"value": "B"
+						},
+						{
+							"label": "7",
+							"value": "C"
+						},
+						{
+							"label": "10",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "如果观测到雨淞或雾淞，现在天气组编报否（）。",
+					"options": [{
+							"label": "如实编报",
+							"value": "A"
+						},
+						{
+							"label": "雨凇编报雾凇不编",
+							"value": "B"
+						},
+						{
+							"label": "雾凇编报雨凇不编",
+							"value": "C"
+						},
+						{
+							"label": "都不编报",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "如果观测几种不同形式的降水，如何编报（）。",
+					"options": [{
+							"label": "编报主要降水省略次要降水",
+							"value": "A"
+						},
+						{
+							"label": "按照强度顺序依次分开编报",
+							"value": "B"
+						},
+						{
+							"label": "按照强度顺序依次分开编报",
+							"value": "C"
+						},
+						{
+							"label": "须用恰当的简语组合成一组，排列顺序无特定要求",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "不同的降水现象编为一组时，其降水强度表示的是（）。",
+					"options": [{
+							"label": "排在最前降水现象强度",
+							"value": "A"
+						},
+						{
+							"label": "较强的降水现象强度",
+							"value": "B"
+						},
+						{
+							"label": "近时最强降水现象强度",
+							"value": "C"
+						},
+						{
+							"label": "以上都可",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下来说法正确的是：（）。",
+					"options": [{
+							"label": "在METAR/SPECI中，中等降水要指明强度符号。在METREPORT/SPECIAL中，用MOD表示强度中等",
+							"value": "A"
+						},
+						{
+							"label": "在METAR/SPECI中，中等降水不指明强度符号。在METREPORT/SPECIAL中，用FRL表示强度中等",
+							"value": "B"
+						},
+						{
+							"label": "在METAR/SPECI中，中等降水要指明强度符号。在METREPORT/SPECIAL中，用MOD表示强度中等",
+							"value": "C"
+						},
+						{
+							"label": "在METAR/SPECI中，中等降水不指明强度符号。在METREPORT/SPECIAL中，用MOD表示强度中等",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测到近地面气温为-2.5℃且有雾，天气现象编报()。",
+					"options": [{
+							"label": "编报FG",
+							"value": "A"
+						},
+						{
+							"label": "编报FZFG",
+							"value": "B"
+						},
+						{
+							"label": "编报MSFG",
+							"value": "C"
+						},
+						{
+							"label": "编报-FG",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "以下关于在METAR/SPECI中主导能见度分段编报规定描述正确的是（）。",
+					"options": [{
+							"label": "当能见度小于800m时，以25m为等级报告",
+							"value": "A"
+						},
+						{
+							"label": "当能见度大于等于800m且小于5000m时，以50m为等级报告",
+							"value": "B"
+						},
+						{
+							"label": "当能见度大于或等于5000m且小于10000m时，以1000m为等级报告",
+							"value": "C"
+						},
+						{
+							"label": "当能见度大于或等于10000m时，报告“9999”（但适用“CAVOK”的条件时除外）",
+							"value": "D"
+						},
+						{
+							"label": "当任何观测值不符合所使用的报告等级时，应当向下取最接近的一级",
+							"value": "E"
+						}
+					],
+					"answer": [
+						"CDE"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "以下关于在METAR/SPECI中跑道视程分段编报规定描述正确的是（）。",
+					"options": [{
+							"label": "当跑道视程小于50m时，报告为“M0050”",
+							"value": "A"
+						},
+						{
+							"label": "当跑道视程大于等于50m且小于400m时，以50m为等级报告",
+							"value": "B"
+						},
+						{
+							"label": "当跑道视程大于等于400m且小于或等于800m时，以100m为等级报告",
+							"value": "C"
+						},
+						{
+							"label": "当跑道视程大于800m且小于或等于2000m时，以100m为等级报告",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "全项观测的项目包括（）。",
+					"options": [{
+							"label": "云、主导能见度、（MOR）、（跑道视程）",
+							"value": "A"
+						},
+						{
+							"label": "天气现象、（垂直能见度）、风、气压",
+							"value": "B"
+						},
+						{
+							"label": "气温、湿度、最高气温、最低气温",
+							"value": "C"
+						},
+						{
+							"label": "降水量、积雪深度",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABCD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "地方时是指（）。",
+					"options": [{
+							"label": "各地区自行规定的时刻",
+							"value": "A"
+						},
+						{
+							"label": "以观测者所在经线和太阳之间的关系所确定的时刻叫地方时",
+							"value": "B"
+						},
+						{
+							"label": "为克服时间的地区差异规定的",
+							"value": "C"
+						},
+						{
+							"label": "即UTC",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列对云分类的描述正确的是（）。",
+					"options": [{
+							"label": "按云的形态分为九类",
+							"value": "A"
+						},
+						{
+							"label": "按云的形态分为十四类",
+							"value": "B"
+						},
+						{
+							"label": "按云底高度把云分为低、中、高三族",
+							"value": "C"
+						},
+						{
+							"label": "按云的形成原因把云分为低、中、高三族",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"BC"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "地方时是指（）。",
+					"options": [{
+							"label": "各地区自行规定的时刻",
+							"value": "A"
+						},
+						{
+							"label": "以观测者所在经线和太阳之间的关系所确定的时刻叫地方时",
+							"value": "B"
+						},
+						{
+							"label": "为克服时间的地区差异规定的",
+							"value": "C"
+						},
+						{
+							"label": "即UTC",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "总云量指()。",
+					"options": [{
+							"label": "天空被最低层云（不论云的种类和层次）共同遮蔽的份数",
+							"value": "A"
+						},
+						{
+							"label": "天空被某层最多的云（不论云的种类和层次）遮蔽的份数",
+							"value": "B"
+						},
+						{
+							"label": "天空被所有云（不论云的种类和层次）共同遮蔽的份数",
+							"value": "C"
+						},
+						{
+							"label": "天空被最高层云（不论云的种类和层次）共同遮蔽的份数",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "冻雨是指（）。",
+					"options": [{
+							"label": "温度为零度以下时的雨",
+							"value": "A"
+						},
+						{
+							"label": "过冷雨滴与地面或地物、飞机等相碰而即刻冻结的雨",
+							"value": "B"
+						},
+						{
+							"label": "高空中的过冷水滴",
+							"value": "C"
+						},
+						{
+							"label": "以上都是",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "观测时有雷暴伴随大阵雨，观测记录簿现在天气栏记录（）。",
+					"options": [{
+							"label": "TS+SHRA",
+							"value": "A"
+						},
+						{
+							"label": "+SHRATS",
+							"value": "B"
+						},
+						{
+							"label": "＋TSRA",
+							"value": "C"
+						},
+						{
+							"label": "+RATS",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气温在（）℃以下时，应将正在使用的水银温度表改用酒精温度表。",
+					"options": [{
+							"label": "－36℃",
+							"value": "A"
+						},
+						{
+							"label": "－30℃",
+							"value": "B"
+						},
+						{
+							"label": "－38℃",
+							"value": "C"
+						},
+						{
+							"label": "－40℃",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "采用人工观测方式，当气温低于－36℃时，（）。",
+					"options": [{
+							"label": "继续观测最高温度表，该日最高温度从整点温度中选取，并在纪要栏内注明",
+							"value": "A"
+						},
+						{
+							"label": "停止观测最高温度表，该日最高温度从记录中的温度选取，并在纪要栏内注明",
+							"value": "B"
+						},
+						{
+							"label": "继续观测最高温度表，该日最高温度从记录中的温度选取，并在纪要栏内注明",
+							"value": "C"
+						},
+						{
+							"label": "停止观测最高温度表，该日最高气温从整点气温中选取，并在纪要栏内注明",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "配置自动观测设备的机场，如何获取最低气温（）。",
+					"options": [{
+							"label": "取每个小时00分中的最低值",
+							"value": "A"
+						},
+						{
+							"label": "直接在自动观测设备的显示终端上读取",
+							"value": "B"
+						},
+						{
+							"label": "以露点温度为参照",
+							"value": "C"
+						},
+						{
+							"label": "以上都不对",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "层云和碎层云、淡积云和碎积云出现在同一高度时云量如何记（）。",
+					"options": [{
+							"label": "记合量",
+							"value": "A"
+						},
+						{
+							"label": "淡积云和碎积云合量达到满天时记合量",
+							"value": "B"
+						},
+						{
+							"label": "云量分开记录",
+							"value": "C"
+						},
+						{
+							"label": "只记录淡积云的云量",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "振筒气压仪的安置有何要求（）。",
+					"options": [{
+							"label": "周围不应有磁场",
+							"value": "A"
+						},
+						{
+							"label": "安置在室内无振动的平台上",
+							"value": "B"
+						},
+						{
+							"label": "电源不得有强烈的干扰",
+							"value": "C"
+						},
+						{
+							"label": "环境温度不能在短时间内发生剧烈变化",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"ABCD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在测风仪器故障采用用目力判断风向风速时，应在风速右下角加记（）字样，同时在纪要栏用文字说明。",
+					"options": [{
+							"label": "“M”",
+							"value": "A"
+						},
+						{
+							"label": "“N”",
+							"value": "B"
+						},
+						{
+							"label": "“T”",
+							"value": "C"
+						},
+						{
+							"label": "“U”",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "有雨凇生成时，可能出现的记录情况有（）。",
+					"options": [{
+							"label": "冻雨和雨凇都记",
+							"value": "A"
+						},
+						{
+							"label": "只记录冻雨",
+							"value": "B"
+						},
+						{
+							"label": "只记录雨凇",
+							"value": "C"
+						},
+						{
+							"label": "以上都不对",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"AC"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在METREPORT与SPECIAL中，当主导能见度大于等于10000米时，报告（）。",
+					"options": [{
+							"label": "10000M",
+							"value": "A"
+						},
+						{
+							"label": "10KM",
+							"value": "B"
+						},
+						{
+							"label": "ABV9999",
+							"value": "C"
+						},
+						{
+							"label": "CAVOK",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "积状云的形成要求（）。",
+					"options": [{
+							"label": "对流高度在凝结高度之上",
+							"value": "A"
+						},
+						{
+							"label": "凝结高度在对流高度之上",
+							"value": "B"
+						},
+						{
+							"label": "气块达到凝结高度即可",
+							"value": "C"
+						},
+						{
+							"label": "气块达到对流高度即可",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列各组云之间的演变正确的是（）。",
+					"options": [{
+							"label": "层状云：卷层云->雨层云->高层云",
+							"value": "A"
+						},
+						{
+							"label": "波状云：卷积云->高积云->层云->层积云",
+							"value": "B"
+						},
+						{
+							"label": "积状云：淡积云->浓积云->积雨云->伪卷云",
+							"value": "C"
+						},
+						{
+							"label": "积状云：淡积云->积雨云->浓积云->卷云",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "层积云与雨层云的主要区别是（）。",
+					"options": [{
+							"label": "只要云顶凸起，云底还没有融合时，就应判别为层积云",
+							"value": "A"
+						},
+						{
+							"label": "雨层云局部出现，云层各部的明暗不一，异动明显",
+							"value": "B"
+						},
+						{
+							"label": "层积云中气流不稳定，有波动，云底可分辨出块状结构，常有间歇性降水",
+							"value": "C"
+						},
+						{
+							"label": "雨层云云底模糊，没有块状结构，常有连续性降水",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"CD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "下列关于RVR的描述正确的是（）。",
+					"options": [{
+							"label": "是指在滑行道上，航空器上的驾驶员能看到跑道面上的标志或跑道边界灯或中线灯的距离",
+							"value": "A"
+						},
+						{
+							"label": "航空器上的驾驶员所处的高度可以认为是离地大约7米",
+							"value": "B"
+						},
+						{
+							"label": "其大小与跑道的灯光强度无关",
+							"value": "C"
+						},
+						{
+							"label": "其数值不得人为观测",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"D"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "关于能见度的观测下列说法错误的是（）。",
+					"options": [{
+							"label": "观测能见度应当在视野开阔，能看到所有目标物的固定地点进行",
+							"value": "A"
+						},
+						{
+							"label": "夜间由于光照不足，不观测能见度，直接使用跑道能见度",
+							"value": "B"
+						},
+						{
+							"label": "夜间能见度的观测，观测前应先在暗处至少停留5分钟，再观测",
+							"value": "C"
+						},
+						{
+							"label": "能见度的观测要考虑目标物的大小、背景颜色及当时的光照等情况综合判断",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "风暴现象不包括（）。",
+					"options": [{
+							"label": "大风",
+							"value": "A"
+						},
+						{
+							"label": "龙卷",
+							"value": "B"
+						},
+						{
+							"label": "阵风",
+							"value": "C"
+						},
+						{
+							"label": "尘卷风",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "在METREPORT与SPECIAL中，应报告（）分钟的平均能见度值。",
+					"options": [{
+							"label": "1",
+							"value": "A"
+						},
+						{
+							"label": "2",
+							"value": "B"
+						},
+						{
+							"label": "5",
+							"value": "C"
+						},
+						{
+							"label": "10",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当最大冰雹的最大直径（）时，要记录其重量，单位（）。",
+					"options": [{
+							"label": "大于等于10毫米",
+							"value": "A"
+						},
+						{
+							"label": "大于10毫米",
+							"value": "B"
+						},
+						{
+							"label": "大于等于10毫米",
+							"value": "C"
+						},
+						{
+							"label": "大于10毫米",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当主导能见度在5000米以下不一定能编报的视程障碍现象或天气现象是（）。",
+					"options": [{
+							"label": "FU",
+							"value": "A"
+						},
+						{
+							"label": "SA",
+							"value": "B"
+						},
+						{
+							"label": "HZ",
+							"value": "C"
+						},
+						{
+							"label": "BR",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"BD"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "本场出现阵性冻雨，应编报为（）。",
+					"options": [{
+							"label": "SHFZRA",
+							"value": "A"
+						},
+						{
+							"label": "FZSHRA",
+							"value": "B"
+						},
+						{
+							"label": "FZRA",
+							"value": "C"
+						},
+						{
+							"label": "SHRA",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "当天空被天气现象所遮蔽，无法判断云的量状高时，应判定（）米以下的垂直能见度。",
+					"options": [{
+							"label": "600",
+							"value": "A"
+						},
+						{
+							"label": "500",
+							"value": "B"
+						},
+						{
+							"label": "400",
+							"value": "C"
+						},
+						{
+							"label": "300",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"A"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "例行天气报告中近时天气现象、趋势预报与风切变三者的前后顺序是（）。",
+					"options": [{
+							"label": "趋势预报近时天气现象风切变",
+							"value": "A"
+						},
+						{
+							"label": "近时天气现象趋势预报风切变",
+							"value": "B"
+						},
+						{
+							"label": "近时天气现象风切变趋势预报",
+							"value": "C"
+						},
+						{
+							"label": "风切变近时天气现象趋势预报",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"C"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "雷暴在天顶时记录（）。",
+					"options": [{
+							"label": "U",
+							"value": "A"
+						},
+						{
+							"label": "Z",
+							"value": "B"
+						},
+						{
+							"label": "H",
+							"value": "C"
+						},
+						{
+							"label": "P",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"B"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				},
+				{
+					"title": "气温对航空器滑跑距离的影响描述正确的是（）。",
+					"options": [{
+							"label": "气温高时，航空器增速变大，滑跑距离变短",
+							"value": "A"
+						},
+						{
+							"label": "气温高时，航空器增速变小，滑跑距离变长",
+							"value": "B"
+						},
+						{
+							"label": "气温低时，航空器增速变大，滑跑距离变短",
+							"value": "C"
+						},
+						{
+							"label": "气温低时，航空器增速变小，滑跑距离变长",
+							"value": "D"
+						}
+					],
+					"answer": [
+						"BC"
+					],
+					"explan": "",
+					"status": "",
+					"current": [
+
+					]
+				}
+			]
+		}]
+	}, {
+		"id": 5,
+		"part": "编报题",
+		"choose": [{
+			"chapter": "编报题",
+			"questions": [
+
+			]
+		}]
+	}
+]
